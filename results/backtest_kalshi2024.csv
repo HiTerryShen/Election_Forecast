@@ -1,0 +1,31 @@
+q_source,strategy,races,underdog_picks,underdogs_won,picks_correct,actual_score,expected_score
+market only,favorite_only,41,0,0,33,14.93,12.34
+market only,dog_if_>=30%,41,19,5,24,10.94,13.91
+market only,dog_if_>=20%,41,30,8,19,14.07,16.12
+market only,dog_if_>=10% (80% margin rule),41,33,8,16,13.39,16.73
+market only,dog_if_>=5% (max EV),41,35,8,14,13.19,17.08
+"market only, House",favorite_only,23,0,0,16,10.89,9.12
+"market only, House",dog_if_>=30%,23,18,5,8,7.87,10.67
+"market only, House",dog_if_>=20%,23,22,7,8,10.97,11.5
+"market only, House",dog_if_>=10% (80% margin rule),23,23,7,7,10.67,11.7
+"market only, House",dog_if_>=5% (max EV),23,23,7,7,10.67,11.7
+"market only, Senate",favorite_only,18,0,0,17,4.04,3.23
+"market only, Senate",dog_if_>=30%,18,1,0,16,3.07,3.23
+"market only, Senate",dog_if_>=20%,18,8,1,11,3.1,4.62
+"market only, Senate",dog_if_>=10% (80% margin rule),18,10,1,9,2.72,5.04
+"market only, Senate",dog_if_>=5% (max EV),18,12,1,7,2.52,5.39
+House w/ model data: market only,favorite_only,23,0,0,16,10.89,9.12
+House w/ model data: market only,dog_if_>=30%,23,18,5,8,7.87,10.67
+House w/ model data: market only,dog_if_>=20%,23,22,7,8,10.97,11.5
+House w/ model data: market only,dog_if_>=10% (80% margin rule),23,23,7,7,10.67,11.7
+House w/ model data: market only,dog_if_>=5% (max EV),23,23,7,7,10.67,11.7
+House w/ model data: 50/50 model+market,favorite_only,23,0,0,14,10.52,12.53
+House w/ model data: 50/50 model+market,dog_if_>=30%,23,8,6,18,16.85,13.22
+House w/ model data: 50/50 model+market,dog_if_>=20%,23,21,9,11,12.12,9.38
+House w/ model data: 50/50 model+market,dog_if_>=10% (80% margin rule),23,23,9,9,11.04,8.85
+House w/ model data: 50/50 model+market,dog_if_>=5% (max EV),23,23,9,9,11.04,8.85
+House w/ model data: model only,favorite_only,23,0,0,15,13.14,16.69
+House w/ model data: model only,dog_if_>=30%,23,6,4,17,14.31,14.47
+House w/ model data: model only,dog_if_>=20%,23,9,5,16,14.74,14.57
+House w/ model data: model only,dog_if_>=10% (80% margin rule),23,19,6,8,7.63,8.4
+House w/ model data: model only,dog_if_>=5% (max EV),23,22,8,9,9.18,6.21

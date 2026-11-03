@@ -1,0 +1,471 @@
+race_id,chamber,state,district,incumbent,incumbent_party,incumbent_running,incumbent_terms,open_seat,dem_candidate,rep_candidate,other_candidate,other_party,uncontested,top_two_same_party,redistricted_2026,cook_rating,sabato_rating,inside_elections_rating,source
+MN-05,House,MN,5,Ilhan Omar,D,Y,,N,Ilhan Omar,John Nagel,DeVelle L. Jackson,I,N,N,N,Solid D,,,https://deepsyte.app/races/MN/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+IL-04,House,IL,4,,,N,,Y,Patty Garcia,Lupe Castillo,Chris Getty,I,N,N,N,Solid D,,,https://deepsyte.app/races/IL/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+NE-01,House,NE,1,Mike Flood,R,Y,,N,Chris Backemeyer,Mike Flood,Nik Sandman,I,N,N,N,Likely R,,,https://deepsyte.app/races/NE/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+CA-06,House,CA,6,Kevin Kiley,I,Y,,N,Richard Pan,,Kevin Kiley,I,Y,N,Y,Solid D,,,https://deepsyte.app/races/CA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+WY-0,House,WY,0,,,N,,Y,Lisa Kinney,Chuck Gray,Shawn Johnson,I,N,N,N,,,,https://deepsyte.app/races/WY/00
+WV-02,House,WV,2,Riley M. Moore,R,Y,,N,Ace Parsi,Riley M. Moore,,,N,N,N,Solid R,,,https://deepsyte.app/races/WV/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WV-01,House,WV,1,Carol D. Miller,R,Y,,N,Vince George,Carol D. Miller,Belinda Fox-Spencer,I,N,N,N,Solid R,,,https://deepsyte.app/races/WV/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-07,House,WI,7,,,N,,Y,Fred Clark,Michael Alfonso,,,N,N,N,Solid R,,,https://deepsyte.app/races/WI/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-08,House,WI,8,Tony Wied,R,Y,,N,Rick Crosson,Tony Wied,,,N,N,N,Solid R,,,https://deepsyte.app/races/WI/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-06,House,WI,6,Glenn Grothman,R,Y,,N,Brad Smith,Glenn Grothman,Matthew Arndt,I,N,N,N,Solid R,,,https://deepsyte.app/races/WI/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-05,House,WI,5,Scott Fitzgerald,R,Y,,N,Andrew Beck,Scott Fitzgerald,,,N,N,N,Solid R,,,https://deepsyte.app/races/WI/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-04,House,WI,4,Gwen Moore,D,Y,,N,Gwen Moore,Tim Rogers,Arthur Burks,I,N,N,N,Solid D,,,https://deepsyte.app/races/WI/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WI-02,House,WI,2,Mark Pocan,D,Y,,N,Mark Pocan,,,,Y,N,N,Solid D,,,https://deepsyte.app/races/WI/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-10,House,WA,10,Marilyn Strickland,D,Y,,N,Marilyn Strickland,Chris D. Chung,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-09,House,WA,9,Adam Smith,D,Y,,N,Adam Smith,Doug Basler,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-07,House,WA,7,Pramila Jayapal,D,Y,,N,Pramila Jayapal,Nirav Sheth,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-06,House,WA,6,Emily Randall,D,Y,,N,Emily Randall,Teresa Fox,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-05,House,WA,5,Michael Baumgartner,R,Y,,N,Carmela Conroy,Michael Baumgartner,,,N,N,N,Likely R,,,https://deepsyte.app/races/WA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+WA-04,House,WA,4,,,N,,Y,John Duresky,Amanda McKinney,,,N,N,N,Solid R,,,https://deepsyte.app/races/WA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WA-02,House,WA,2,Rick Larsen,D,Y,,N,Rick Larsen,Edwin H. Feller,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-01,House,WA,1,Suzan K. DelBene,D,Y,,N,Suzan K. DelBene,Mary Silva,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VT-0,House,VT,0,Becca Balint,D,Y,,N,Becca Balint,Gerald Malloy,Adam Ortiz,I,N,N,N,,,,https://deepsyte.app/races/VT/00
+VA-11,House,VA,11,James R. Walkinshaw,D,Y,,N,James R. Walkinshaw,Arthur G. Purves,Dianne L. Blais,I,N,N,N,Solid D,,,https://deepsyte.app/races/VA/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-09,House,VA,9,H. Morgan Griffith,R,Y,,N,Joy A. Powers,H. Morgan Griffith,,,N,N,N,Solid R,,,https://deepsyte.app/races/VA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-08,House,VA,8,Donald S. Beyer,D,Y,,N,Donald S. Beyer,Tony A. Sabio,Tim S. Sharman,I,N,N,N,Solid D,,,https://deepsyte.app/races/VA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-06,House,VA,6,Ben Cline,R,Y,,N,Beth A. Macy,Ben Cline,,,N,N,N,Solid R,,,https://deepsyte.app/races/VA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-05,House,VA,5,John McGuire,R,N,,N,Tom S. P. Perriello,John J. McGuire III,Cooke C. Harvey,I,N,N,N,Likely R,,,https://deepsyte.app/races/VA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+VA-04,House,VA,4,Jennifer L. McClellan,D,Y,,N,Jennifer L. McClellan,"Robert P. ""Family Man"" Murray, Jr.","Joan E. ""Andrews"" Bell",I,N,N,N,Solid D,,,https://deepsyte.app/races/VA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-03,House,VA,3,"Robert C. ""Bobby"" Scott",D,Y,,N,"Robert C. ""Bobby"" Scott","Edwin Rivera, Jr.",Stephen C. Woll,I,N,N,N,Solid D,,,https://deepsyte.app/races/VA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+UT-04,House,UT,4,Mike Kennedy,R,Y,,N,Jonny Larsen,Mike Kennedy,Taylor Wright,I,N,N,Y,Solid R,,,https://deepsyte.app/races/UT/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-38,House,TX,38,,,N,,Y,Melissa Mcdonough,Jon Bonck,Alex Mcmenemy,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/38; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-37,House,TX,37,Greg Casar,D,N,,N,Greg Casar,Lauren B. Peña,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/37; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-36,House,TX,36,Brian Babin,R,Y,,N,Rhonda Hart,Brian Babin,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/36; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-33,House,TX,33,,,N,,Y,Colin Allred,Patrick David Gillespie,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/33; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-31,House,TX,31,John R. Carter,R,Y,,N,Justin Early,John R. Carter,Greg Stoker,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/31; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-30,House,TX,30,,,N,,Y,Frederick D. Haynes Iii,Everett Jackson,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/30; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-29,House,TX,29,Sylvia R. Garcia,D,Y,,N,Sylvia R. Garcia,Martha Fierro,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/29; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-27,House,TX,27,Michael Cloud,R,Y,,N,Tanya Lloyd,Michael Cloud,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/27; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-26,House,TX,26,Brandon Gill,R,Y,,N,Steven Shook,Brandon Gill,Phil Gray,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/26; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-24,House,TX,24,Beth Van Duyne,R,Y,,N,Kevin Burge,Beth Van Duyne,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/24; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-25,House,TX,25,Roger Williams,R,Y,,N,Dione Sims,Roger Williams,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/25; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-23,House,TX,23,,,N,,Y,Katy Padilla Stout,Brandon Herrera,Ben Mendoza,I,N,N,Y,Lean R,,,https://deepsyte.app/races/TX/23; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+TX-22,House,TX,22,,,N,,Y,Marquette Greene-Scott,Trever Nehls,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/22; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-21,House,TX,21,,,N,,Y,Kristin Hook,Mark Teixeira,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/21; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-20,House,TX,20,Joaquin Castro,D,Y,,N,Joaquin Castro,Edgardo Rafael Baez,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/20; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-19,House,TX,19,,,N,,Y,Kyle Rable,Tom Sell,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/19; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-18,House,TX,18,Christian Menefee,D,N,,N,Christian Dashaun Menefee,Ronald Dwayne Whitfield,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/18; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-17,House,TX,17,Pete Sessions,R,Y,,N,Casey Shepard,Pete Sessions,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-16,House,TX,16,Veronica Escobar,D,Y,,N,Veronica Escobar,Adam Bauman,,,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-14,House,TX,14,Randy K. Sr. Weber,R,Y,,N,Thurman Bill Bartie,Randy K. Sr. Weber,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-13,House,TX,13,Ronny Jackson,R,Y,,N,Mark Nair,Ronny Jackson,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-12,House,TX,12,Craig A. Goldman,R,Y,,N,"Angela ""Heli"" Rodriguez Prilliman",Craig A. Goldman,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-11,House,TX,11,August Pfluger,R,Y,,N,Claire Reynolds,August Pfluger,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-10,House,TX,10,,,N,,Y,Caitlin Rourk,Chris Gober,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-08,House,TX,8,,,N,,Y,Laura Jones,Jessica Hart Steinmann,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-07,House,TX,7,Lizzie Fletcher,D,Y,,N,Lizzie Fletcher,Alexander Hale,Espoir Ngabo,I,N,N,Y,Solid D,,,https://deepsyte.app/races/TX/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-06,House,TX,6,Jake Ellzey,R,Y,,N,Danny Minton,Jake Ellzey,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-05,House,TX,5,Lance Gooden,R,Y,,N,Chelsey Hockett,Lance Gooden,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-04,House,TX,4,Pat Fallon,R,Y,,N,Jason Pearce,Pat Fallon,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-03,House,TX,3,Keith Self,R,N,,N,Evan Hunt,Keith Self,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-02,House,TX,2,,,N,,Y,Shaun Finnie,Steve Toth,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TX-01,House,TX,1,Nathaniel Moran,R,Y,,N,Yolanda R. Prince,Nathaniel Moran,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-09,House,TN,9,,,N,,Y,Justin J. Pearson,Brent Taylor,Dennis Clark,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-08,House,TN,8,David Kustoff,R,Y,,N,Heidi Kuhn,David Kustoff,"Henry J. Ward, III",I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-07,House,TN,7,Matt Van Epps,R,Y,,N,Darden Copeland,Matt Van Epps,Lowell Reynolds,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-06,House,TN,6,,,N,,Y,Mike Croley,Johnny Garrett,Christopher B. Monday,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-05,House,TN,5,,,N,,Y,Chaz Molder,Charlie Hatcher,James A. Johnson,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-04,House,TN,4,Scott DesJarlais,R,Y,,N,Victoria Broderick,Scott DesJarlais,Clay Faircloth,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-03,House,TN,3,"Charles J. ""Chuck"" Fleischmann",R,Y,,N,Anna Golladay,"Charles J. ""Chuck"" Fleischmann",Dean Arnold,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-02,House,TN,2,Tim Burchett,R,Y,,N,Michaela Barnett,Tim Burchett,Bruce Fine,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-01,House,TN,1,Diana Harshbarger,R,Y,,N,Kristi Burke,Diana Harshbarger,Chris Campbell,I,N,N,Y,Solid R,,,https://deepsyte.app/races/TN/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SD-0,House,SD,0,,,N,,Y,"Nicole ""Nikki"" Gronli",Marty Jackley,,,N,N,N,,,,https://deepsyte.app/races/SD/00
+SC-07,House,SC,7,Russell Fry,R,Y,,N,John Gregory Vincent,Russell Fry,,,N,N,N,Solid R,,,https://deepsyte.app/races/SC/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-06,House,SC,6,James E. Clyburn,D,Y,,N,James E. Clyburn,John Peterson,,,N,N,N,Solid D,,,https://deepsyte.app/races/SC/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+SC-05,House,SC,5,,,N,,Y,Mallory Dittmer,Wes Climer,,,N,N,N,Solid R,,,https://deepsyte.app/races/SC/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-04,House,SC,4,William R. Timmons,R,Y,,N,Courtney McClain,William R. Timmons,Jessica Ethridge,I,N,N,N,Solid R,,,https://deepsyte.app/races/SC/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-03,House,SC,3,Sheri Biggs,R,Y,,N,Eunice Lehmacher,Sheri Biggs,Brian Corriea,I,N,N,N,Solid R,,,https://deepsyte.app/races/SC/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-02,House,SC,2,Joe Wilson,R,Y,,N,Zyon Khalifa,Joe Wilson,,,N,N,N,Solid R,,,https://deepsyte.app/races/SC/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-01,House,SC,1,,,N,,Y,Nancy Lacore,Jenny Costa Honeycutt,Bill Reeside,I,N,N,N,Toss Up,,,https://deepsyte.app/races/SC/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+RI-01,House,RI,1,Gabe Amo,D,Y,,N,Gabe Amo,Kellie Eleanor Keenan,Pedro Junior Soares De Souza,I,N,N,N,Solid D,,,https://deepsyte.app/races/RI/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-14,House,PA,14,Guy Reschenthaler,R,Y,,N,David Alan Bradstock,Guy Reschenthaler,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+PA-15,House,PA,15,Glenn Thompson,R,Y,,N,Ray Bilger,Glenn Thompson,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+RI-02,House,RI,2,Seth Magaziner,D,Y,,N,Seth Magaziner,Victor Gilbert Mellor,,,N,N,N,Solid D,,,https://deepsyte.app/races/RI/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+PA-16,House,PA,16,Mike Kelly,R,Y,,N,Justin Reed Wagner,Mike Kelly,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+PA-12,House,PA,12,Summer L. Lee,D,Y,,N,Summer L. Lee,James Kevin Hayes,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-13,House,PA,13,John Joyce,R,Y,,N,Elizabeth Rhoads Farnham,John Joyce,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-11,House,PA,11,Lloyd Smucker,R,Y,,N,Nancy Ellen Mannion,Lloyd Smucker,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-09,House,PA,9,Daniel Meuser,R,Y,,N,Rachel Lillian Wallace,Daniel Meuser,,,N,N,N,Solid R,,,https://deepsyte.app/races/PA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-06,House,PA,6,Chrissy Houlahan,D,Y,,N,Chrissy Houlahan,Martin Young,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-05,House,PA,5,Mary Gay Scanlon,D,Y,,N,Mary Gay Scanlon,Nicholas W. Manganaro,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-04,House,PA,4,Madeleine Dean,D,Y,,N,Madeleine Dean,Aurora Stuski,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-03,House,PA,3,,,N,,Y,Christopher M. Rabb,,Dennis Joseph Mahoney,I,Y,N,N,Solid D,,,https://deepsyte.app/races/PA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-02,House,PA,2,Brendan F. Boyle,D,Y,,N,Brendan F. Boyle,Jessica Arriaga,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-06,House,OR,6,Andrea Salinas,D,Y,,N,Andrea Salinas,David Russ,,,N,N,N,Solid D,,,https://deepsyte.app/races/OR/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-04,House,OR,4,Val T. Hoyle,D,Y,,N,Val T. Hoyle,Monique DeSpain,Justin Filip,I,N,N,N,Solid D,,,https://deepsyte.app/races/OR/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-03,House,OR,3,Maxine Dexter,D,Y,,N,Maxine Dexter,Loran Ayles,,,N,N,N,Solid D,,,https://deepsyte.app/races/OR/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-02,House,OR,2,Cliff Bentz,R,Y,,N,Chris Beck,Cliff Bentz,,,N,N,N,Solid R,,,https://deepsyte.app/races/OR/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OR-01,House,OR,1,Suzanne Bonamici,D,Y,,N,Suzanne Bonamici,Barbara J Kahl,,,N,N,N,Solid D,,,https://deepsyte.app/races/OR/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OK-05,House,OK,5,Stephanie I. Bice,R,Y,,N,Jena Nelson,Stephanie I. Bice,Robert P. Henri,I,N,N,N,Solid R,,,https://deepsyte.app/races/OK/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-04,House,OK,4,Tom Cole,R,Y,,N,Mitchell Jacob,Tom Cole,Rocco Bonacci,I,N,N,N,Solid R,,,https://deepsyte.app/races/OK/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-03,House,OK,3,Frank D. Lucas,R,Y,,N,Suzie Byrd,Frank D. Lucas,,,N,N,N,Solid R,,,https://deepsyte.app/races/OK/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-02,House,OK,2,Josh Brecheen,R,Y,,N,Brandon Wade,Josh Brecheen,Ronnie Hopkins,I,N,N,N,Solid R,,,https://deepsyte.app/races/OK/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-01,House,OK,1,,,N,,Y,John Croisant,Mark Tedford,,,N,N,N,Solid R,,,https://deepsyte.app/races/OK/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-15,House,OH,15,Mike Carey,R,Y,,N,Don Leonard,Mike Carey,Brennan Barrington,I,N,N,Y,Lean R,,,https://deepsyte.app/races/OH/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+OH-14,House,OH,14,David P. Joyce,R,Y,,N,Maria Jukic,David P. Joyce,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-12,House,OH,12,Troy Balderson,R,Y,,N,Jerrad Christian,Troy Balderson,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-11,House,OH,11,Shontel M. Brown,D,Y,,N,Shontel M. Brown,Mike Kirchner,,,N,N,Y,Solid D,,,https://deepsyte.app/races/OH/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OH-10,House,OH,10,Michael R. Turner,R,Y,,N,Kristina Knickerbocker,Michael R. Turner,Thomas F. McMasters,I,N,N,Y,Lean R,,,https://deepsyte.app/races/OH/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+OH-08,House,OH,8,Warren Davidson,R,Y,,N,Vanessa Enoch,Warren Davidson,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-07,House,OH,7,Max L. Miller,R,Y,,N,Brian Poindexter,Max L. Miller,,,N,N,Y,Toss Up,,,https://deepsyte.app/races/OH/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+OH-06,House,OH,6,Michael A. Rulli,R,Y,,N,Elizabeth Kirtley,Michael A. Rulli,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-05,House,OH,5,Robert E. Latta,R,Y,,N,Brian A. Shaver,Robert E. Latta,Michael J. Veloff,I,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-04,House,OH,4,Jim Jordan,R,Y,,N,Joshua D. Kolasinski,Jim Jordan,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-03,House,OH,3,Joyce Beatty,D,Y,,N,Joyce Beatty,Cleophus Dulaney,,,N,N,Y,Solid D,,,https://deepsyte.app/races/OH/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OH-02,House,OH,2,David J. Taylor,R,Y,,N,Jen Mazzuckelli,David J. Taylor,,,N,N,Y,Solid R,,,https://deepsyte.app/races/OH/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NY-26,House,NY,26,Timothy M. Kennedy,D,Y,,N,Timothy M. Kennedy,Dennis E. Hannon,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/26; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NY-25,House,NY,25,Joseph D. Morelle,D,Y,,N,Joseph D. Morelle,Virginia E. McIntyre,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/25; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NY-24,House,NY,24,Claudia Tenney,R,Y,,N,Alissa J. Ellman,Claudia Tenney,,,N,N,N,Solid R,,,https://deepsyte.app/races/NY/24; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-23,House,NY,23,Nicholas A. Langworthy,R,Y,,N,Aaron Gies,Nicholas A. Langworthy,,,N,N,N,Solid R,,,https://deepsyte.app/races/NY/23; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-21,House,NY,21,,,N,,Y,Blake Gendebien,Anthony Constantino,,,N,N,N,Lean R,,,https://deepsyte.app/races/NY/21; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+NY-20,House,NY,20,Paul Tonko,D,Y,,N,Paul Tonko,Ralph F. Ambrosio,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/20; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-16,House,NY,16,George Latimer,D,Y,,N,George Latimer,Joseph J. Cinquemani,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-15,House,NY,15,Ritchie Torres,D,Y,,N,Ritchie Torres,Stylo Sapaskis,Andre Easton,I,N,N,N,Solid D,,,https://deepsyte.app/races/NY/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-14,House,NY,14,Alexandria Ocasio-Cortez,D,Y,,N,Alexandria Ocasio-Cortez,Diamant Hysenaj,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-13,House,NY,13,,,N,,Y,Darializa Avila Chevalier,Jomo M. Williams,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-12,House,NY,12,,,N,,Y,Micah C. Lasher,Caroline Shinkle,Karen Ortiz,I,N,N,N,Solid D,,,https://deepsyte.app/races/NY/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-11,House,NY,11,Nicole Malliotakis,R,Y,,N,Mike DeCillis,Nicole Malliotakis,,,N,N,N,Solid R,,,https://deepsyte.app/races/NY/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-10,House,NY,10,,,N,,Y,Brad Lander,Jennifer E. Moore,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-09,House,NY,9,Yvette D. Clarke,D,Y,,N,Yvette D. Clarke,Joel Azumah,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-07,House,NY,7,,,N,,Y,Claire Valdez,Melvin Rivera,Priscilla Ghaznavi,I,N,N,N,Solid D,,,https://deepsyte.app/races/NY/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-08,House,NY,8,Hakeem S. Jeffries,D,Y,,N,Hakeem S. Jeffries,Lewis Mizrahi,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-06,House,NY,6,Grace Meng,D,Y,,N,Grace Meng,Joseph Chou,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-05,House,NY,5,Gregory W. Meeks,D,Y,,N,Gregory W. Meeks,George Marsh,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-02,House,NY,2,Andrew R. Garbarino,R,Y,,N,Patrick Halpin,Andrew R. Garbarino,,,N,N,N,Solid R,,,https://deepsyte.app/races/NY/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-01,House,NY,1,Nick LaLota,R,Y,,N,Christopher J. Gallant,Nick LaLota,,,N,N,N,Solid R,,,https://deepsyte.app/races/NY/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NV-02,House,NV,2,,,N,,Y,Teresa F. Benitez-Thompson,David Flippo,Lynn Chapman,I,N,N,N,Lean R,,,https://deepsyte.app/races/NV/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+NM-03,House,NM,3,Teresa Leger Fernandez,D,Y,,N,Teresa Leger Fernandez,Martin Zamora,,,N,N,N,Solid D,,,https://deepsyte.app/races/NM/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NM-01,House,NM,1,Melanie A. Stansbury,D,Y,,N,Melanie A. Stansbury,Ndidiamaka Ekwua Charlene Okpareke,,,N,N,N,Solid D,,,https://deepsyte.app/races/NM/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-12,House,NJ,12,,,N,,Y,Adam Hamawy,Gregg Mele,Andres Jinete,I,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-10,House,NJ,10,LaMonica McIver,D,Y,,N,LaMonica McIver,Carmen Bucco,,,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-11,House,NJ,11,Analilia Mejia,D,Y,,N,Analilia Mejia,Joe Hathaway,Alan B. Bond,I,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-08,House,NJ,8,Robert Menendez,D,Y,,N,Robert Menendez,,Da'Shone Hughey,I,Y,N,N,Solid D,,,https://deepsyte.app/races/NJ/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-06,House,NJ,6,Frank Pallone,D,Y,,N,Frank Pallone,Hillary Herzig,,,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-04,House,NJ,4,Christopher H. Smith,R,Y,,N,Rachel Peace,Christopher H. Smith,,,N,N,N,Solid R,,,https://deepsyte.app/races/NJ/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NJ-03,House,NJ,3,Herbert C. Conaway,D,Y,,N,Herbert C. Conaway,Michael P. McGuire,Steven Welzer,I,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-02,House,NJ,2,Jefferson Van Drew,R,Y,,N,Zack Mullock,Jefferson Van Drew,Ramon Mora Jr.,I,N,N,N,Likely R,,,https://deepsyte.app/races/NJ/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NJ-01,House,NJ,1,Donald Norcross,D,Y,,N,Donald Norcross,Damon Galdo,,,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NH-02,House,NH,2,Maggie Goodlander,D,Y,,N,Maggie Goodlander,Lily Tang Williams,Robbie Mahrou,I,N,N,N,Solid D,,,https://deepsyte.app/races/NH/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NE-03,House,NE,3,Adrian Smith,R,Y,,N,Becky Kelly Stille,Adrian Smith,David J. Else,I,N,N,N,Solid R,,,https://deepsyte.app/races/NE/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+ND-0,House,ND,0,Julie Fedorchak,R,Y,,N,Trygve Hammer,Julie Fedorchak,Charles Tuttle,I,N,N,N,,,,https://deepsyte.app/races/ND/00
+NC-14,House,NC,14,Tim Moore,R,Y,,N,Lakesha Womack,Tim Moore,,,N,N,Y,Solid R,,,https://deepsyte.app/races/NC/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-13,House,NC,13,Brad Knott,R,Y,,N,Paul Barringer,Brad Knott,Steven Swinton,I,N,N,Y,Likely R,,,https://deepsyte.app/races/NC/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-12,House,NC,12,Alma S. Adams,D,Y,,N,Alma S. Adams,Jack Codiga,,,N,N,Y,Solid D,,,https://deepsyte.app/races/NC/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NC-10,House,NC,10,Pat Harrigan,R,Y,,N,Ashley Bell,Pat Harrigan,Steven Feldman,I,N,N,Y,Solid R,,,https://deepsyte.app/races/NC/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-09,House,NC,9,Richard Hudson,R,Y,,N,Richard N. Ojeda II,Richard Hudson,,,N,N,Y,Likely R,,,https://deepsyte.app/races/NC/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-08,House,NC,8,Mark Harris,R,N,,N,Colby Watson,Mark Harris,Bo Whitehead,I,N,N,Y,Solid R,,,https://deepsyte.app/races/NC/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-07,House,NC,7,David Rouzer,R,Y,,N,Kimberly Hardy,David Rouzer,Maad Abu-Ghazalah,I,N,N,Y,Solid R,,,https://deepsyte.app/races/NC/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NC-06,House,NC,6,Addison P. McDowell,R,Y,,N,Cyril Jefferson,Addison P. McDowell,,,N,N,Y,Solid R,,,https://deepsyte.app/races/NC/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NC-05,House,NC,5,Virginia Foxx,R,Y,,N,Chuck Hubbard,Virginia Foxx,Robert B. Luffman,I,N,N,Y,Likely R,,,https://deepsyte.app/races/NC/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-04,House,NC,4,Valerie P. Foushee,D,Y,,N,Valerie P. Foushee,Mahesh (Max) Ganorkar,Guy Meilleur,I,N,N,Y,Solid D,,,https://deepsyte.app/races/NC/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NC-03,House,NC,3,Gregory F. Murphy,R,Y,,N,Raymond Smith,Gregory F. Murphy,Daniel Cavender,I,N,N,Y,Likely R,,,https://deepsyte.app/races/NC/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-02,House,NC,2,Deborah K. Ross,D,Y,,N,Deborah K. Ross,Eugene F. Douglass,Matthew Laszacs,I,N,N,Y,Solid D,,,https://deepsyte.app/races/NC/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+MS-04,House,MS,4,Mike Ezell,R,Y,,N,Jeffrey Hulum III,Mike Ezell,Carl Boyanton,I,N,N,N,Solid R,,,https://deepsyte.app/races/MS/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MT-02,House,MT,2,Troy Downing,R,Y,,N,Brian J Miller,Troy Downing,Patrick McCracken,I,N,N,N,Solid R,,,https://deepsyte.app/races/MT/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MS-03,House,MS,3,Michael Guest,R,Y,,N,Michael A. Chiaradio,Michael Guest,Erik Kiehle,I,N,N,N,Solid R,,,https://deepsyte.app/races/MS/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MS-02,House,MS,2,Bennie G. Thompson,D,Y,,N,Bennie G. Thompson,Ron Eller,Bennie Foster,I,N,N,N,Solid D,,,https://deepsyte.app/races/MS/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MS-01,House,MS,1,Trent Kelly,R,Y,,N,Cliff Johnson,Trent Kelly,Johnny Baucom,I,N,N,N,Solid R,,,https://deepsyte.app/races/MS/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-08,House,MO,8,Jason Smith,R,Y,,N,Chris Reichard,Jason Smith,Rebecca Sharpe Lombard,I,N,N,N,Solid R,,,https://deepsyte.app/races/MO/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-06,House,MO,6,,,N,,Y,Josh Smead,Chris Stigall,Andy Maidment,I,N,N,N,Solid R,,,https://deepsyte.app/races/MO/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-07,House,MO,7,Eric Burlison,R,Y,,N,Missi Hesketh,Eric Burlison,Kevin Craig,I,N,N,N,Solid R,,,https://deepsyte.app/races/MO/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-04,House,MO,4,Mark Alford,R,Y,,N,Jordan Herrera,Mark Alford,Thomas Holbrook,I,N,N,N,Solid R,,,https://deepsyte.app/races/MO/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-03,House,MO,3,Robert F. Onder,R,Y,,N,Bethany E Mann,Robert F. Onder,Jim Higgins,I,N,N,N,Solid R,,,https://deepsyte.app/races/MO/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-02,House,MO,2,Ann Wagner,R,Y,,N,Fred Wellman,Ann Wagner,Brandon Coulter Daugherty,I,N,N,N,Likely R,,,https://deepsyte.app/races/MO/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+MO-01,House,MO,1,Wesley Bell,D,Y,,N,Wesley Bell,Paul Berry III,Tom Schmitz,I,N,N,N,Solid D,,,https://deepsyte.app/races/MO/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-08,House,MN,8,Pete Stauber,R,Y,,N,Trina Swanson,Pete Stauber,,,N,N,N,Solid R,,,https://deepsyte.app/races/MN/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MN-07,House,MN,7,Michelle Fischbach,R,Y,,N,Erik Osberg,Michelle Fischbach,,,N,N,N,Solid R,,,https://deepsyte.app/races/MN/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MN-06,House,MN,6,Tom Emmer,R,Y,,N,Doug Chapin,Tom Emmer,,,N,N,N,Solid R,,,https://deepsyte.app/races/MN/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MN-04,House,MN,4,Betty McCollum,D,Y,,N,Betty McCollum,Paul Wikstrom,,,N,N,N,Solid D,,,https://deepsyte.app/races/MN/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-03,House,MN,3,Kelly Morrison,D,Y,,N,Kelly Morrison,Tyler Bass,,,N,N,N,Solid D,,,https://deepsyte.app/races/MN/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-01,House,MN,1,Brad Finstad,R,Y,,N,Jake Johnson,Brad Finstad,,,N,N,N,Lean R,,,https://deepsyte.app/races/MN/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+MI-13,House,MI,13,,,N,,Y,Donavan McKinney,T.P. Nykoriak,Raelyn Light,I,N,N,N,Solid D,,,https://deepsyte.app/races/MI/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-12,House,MI,12,Rashida Tlaib,D,Y,,N,Rashida Tlaib,James D. Hooper,Brenda K. Sanders,I,N,N,N,Solid D,,,https://deepsyte.app/races/MI/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-11,House,MI,11,,,N,,Y,Jeremy Moss,Ethan Baker,Farid Ishac,I,N,N,N,Solid D,,,https://deepsyte.app/races/MI/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-09,House,MI,9,Lisa C. McClain,R,Y,,N,Ray Pooley,Lisa C. McClain,Jim Walkowicz,I,N,N,N,Solid R,,,https://deepsyte.app/races/MI/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-06,House,MI,6,Debbie Dingell,D,Y,,N,Debbie Dingell,Heather Smiley,Timothy A. Teagan,I,N,N,N,Solid D,,,https://deepsyte.app/races/MI/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-02,House,MI,2,John R. Moolenaar,R,Y,,N,Ben Ambrose,John R. Moolenaar,Charlotte Magoon,I,N,N,N,Solid R,,,https://deepsyte.app/races/MI/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-05,House,MI,5,Tim Walberg,R,Y,,N,Christian Vukasovich,Tim Walberg,Jim Bronke,I,N,N,N,Solid R,,,https://deepsyte.app/races/MI/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-01,House,MI,1,Jack Bergman,R,Y,,N,Callie Barr,Jack Bergman,Zebulon Featherly,I,N,N,N,Solid R,,,https://deepsyte.app/races/MI/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+ME-01,House,ME,1,Chellie Pingree,D,Y,,N,Chellie Pingree,Ronald C. Russell,,,N,N,N,Solid D,,,https://deepsyte.app/races/ME/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-07,House,MD,7,Kweisi Mfume,D,Y,,N,Kweisi Mfume,Scott M. Collier,,,N,N,N,Solid D,,,https://deepsyte.app/races/MD/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-08,House,MD,8,Jamie Raskin,D,Y,,N,Jamie Raskin,Cheryl Riley,Nancy Wallace,I,N,N,N,Solid D,,,https://deepsyte.app/races/MD/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-06,House,MD,6,April McClain Delaney,D,Y,,N,April McClain Delaney,Robin Ficker,Moshe Y. Landman,I,N,N,N,Solid D,,,https://deepsyte.app/races/MD/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-05,House,MD,5,,,N,,Y,Adrian Boafo,,,,Y,N,N,Solid D,,,https://deepsyte.app/races/MD/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-04,House,MD,4,Glenn Ivey,D,N,,N,Glenn F. Ivey,George E. McDermott,Sam Husseini,I,N,N,N,Solid D,,,https://deepsyte.app/races/MD/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-03,House,MD,3,Sarah Elfreth,D,Y,,N,Sarah Elfreth,Berney Flowers,,,N,N,N,Solid D,,,https://deepsyte.app/races/MD/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-02,House,MD,2,Johnny Olszewski,D,Y,,N,Johnny Olszewski,Dave Wallace,,,N,N,N,Solid D,,,https://deepsyte.app/races/MD/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-01,House,MD,1,Andy Harris,R,Y,,N,Dan Schwartz,Andy Harris,,,N,N,N,Solid R,,,https://deepsyte.app/races/MD/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MA-08,House,MA,8,Stephen F. Lynch,D,Y,,N,Stephen F. Lynch,,Rasheed Nicholas Walters,I,Y,N,N,Solid D,,,https://deepsyte.app/races/MA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-09,House,MA,9,William R. Keating,D,Y,,N,William R. Keating,R. Tyler Macallister,,,N,N,N,Solid D,,,https://deepsyte.app/races/MA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-07,House,MA,7,Ayanna Pressley,D,Y,,N,Ayanna Pressley,,,,Y,N,N,Solid D,,,https://deepsyte.app/races/MA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-06,House,MA,6,,,N,,Y,Dan Koh,Micah Quinney Jones,,,N,N,N,Solid D,,,https://deepsyte.app/races/MA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-05,House,MA,5,Katherine M. Clark,D,Y,,N,Katherine M. Clark,,,,Y,N,N,Solid D,,,https://deepsyte.app/races/MA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-04,House,MA,4,Jake Auchincloss,D,Y,,N,Jake Auchincloss,Thomas Stalcup,,,N,N,N,Solid D,,,https://deepsyte.app/races/MA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-03,House,MA,3,Lori Trahan,D,Y,,N,Lori Trahan,Gary J. Grossi,,,N,N,N,Solid D,,,https://deepsyte.app/races/MA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-02,House,MA,2,James P. McGovern,D,Y,,N,James P. McGovern,,,,Y,N,N,Solid D,,,https://deepsyte.app/races/MA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-01,House,MA,1,Richard E. Neal,D,Y,,N,Richard E. Neal,,Nadia Donya Milleron,I,Y,N,N,Solid D,,,https://deepsyte.app/races/MA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+LA-06,House,LA,6,,,N,,Y,"Lindsay ""Rubia"" Garcia; Chauna Banks; Patrick ""Pat"" Forbes",Blake Miguez; Larry Davis III; Monique Appeaning; Rick Edmonds; Michael Mebruer; Stephen Wagley,Rufus Craig,I,N,N,Y,Solid R,,,https://deepsyte.app/races/LA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-05,House,LA,5,,,N,,Y,"Dan McKay; Patricia ""Pat"" Moore","Gabe Firment; Misti Cordell; Oscar ""Omar"" Dantzler; Austin Magee; Michael Echols; Stewart Cathey Jr.",,,N,N,Y,Solid R,,,https://deepsyte.app/races/LA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-04,House,LA,4,Mike Johnson,R,Y,,N,Matt Gromlich; Conrad Cable,Mike Nichols; Gordon Heslop; Mike Johnson,,,N,N,Y,Solid R,,,https://deepsyte.app/races/LA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-02,House,LA,2,Troy A. Carter,D,Y,,N,Troy A. Carter,Peter Williams,Lisa Ballay,I,N,N,Y,Solid D,,,https://deepsyte.app/races/LA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+LA-03,House,LA,3,Clay Higgins,R,Y,,N,"Priscilla Gonzalez; Caleb ""With a C"" Walker; John Day",Kate Cotten; Clay Higgins,Tia LeBrun,I,N,N,Y,Solid R,,,https://deepsyte.app/races/LA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-01,House,LA,1,Steve Scalise,R,Y,,N,Lauren Jewett,Steve Scalise; Randall Arrington,,,N,N,Y,Solid R,,,https://deepsyte.app/races/LA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-06,House,KY,6,,,N,,Y,Zach Dembo,Ralph Alvarado,Pete Lynch,I,N,N,N,Toss Up,,,https://deepsyte.app/races/KY/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+KY-05,House,KY,5,Harold Rogers,R,Y,,N,Ned Pillersdorf,Harold Rogers,Mikel Wein,I,N,N,N,Solid R,,,https://deepsyte.app/races/KY/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-04,House,KY,4,,,N,,Y,Melissa Claire Strange,Ed Gallrein,Jeremy Todd,I,N,N,N,Solid R,,,https://deepsyte.app/races/KY/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-03,House,KY,3,Morgan McGarvey,D,Y,,N,Morgan McGarvey,Maria Teresa Rodriguez,,,N,N,N,Solid D,,,https://deepsyte.app/races/KY/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+KY-02,House,KY,2,Brett Guthrie,R,Y,,N,Megan Wingfield,Brett Guthrie,Thomas A. Loecken,I,N,N,N,Solid R,,,https://deepsyte.app/races/KY/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-01,House,KY,1,James Comer,R,Y,,N,"John ""Drew"" Williams",James Comer,,,N,N,N,Solid R,,,https://deepsyte.app/races/KY/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KS-03,House,KS,3,Sharice Davids,D,Y,,N,Sharice Davids,Eric Jenkins,Steven A. Hohe,I,N,N,N,Solid D,,,https://deepsyte.app/races/KS/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+KS-04,House,KS,4,Ron Estes,R,Y,,N,Katy Tyndell,Ron Estes,Drew Cranmer,I,N,N,N,Solid R,,,https://deepsyte.app/races/KS/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KS-02,House,KS,2,Derek Schmidt,R,Y,,N,Don Coover,Derek Schmidt,John Hauer,I,N,N,N,Likely R,,,https://deepsyte.app/races/KS/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+KS-01,House,KS,1,Tracey Mann,R,Y,,N,Lauren Reinhold,Tracey Mann,Steven Jacob,I,N,N,N,Solid R,,,https://deepsyte.app/races/KS/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-09,House,IN,9,Erin Houchin,R,Y,,N,Brad A. Meyer,Erin Houchin,Tonya L. Hudson,I,N,N,N,Solid R,,,https://deepsyte.app/races/IN/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-08,House,IN,8,Mark B. Messmer,R,Y,,N,Mary Allen,Mark B. Messmer,,,N,N,N,Solid R,,,https://deepsyte.app/races/IN/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-06,House,IN,6,Jefferson Shreve,R,Y,,N,Cynthia (Cinde) Wirth,Jefferson Shreve,,,N,N,N,Solid R,,,https://deepsyte.app/races/IN/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-03,House,IN,3,Marlin Stutzman,R,N,,N,Kelly Thompson,Marlin A. Stutzman,,,N,N,N,Solid R,,,https://deepsyte.app/races/IN/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-05,House,IN,5,Victoria Spartz,R,Y,,N,J.D. Ford,Victoria Spartz,,,N,N,N,Lean R,,,https://deepsyte.app/races/IN/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+IN-04,House,IN,4,James R. Baird,R,Y,,N,Drew Cox,James R. Baird,,,N,N,N,Solid R,,,https://deepsyte.app/races/IN/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-02,House,IN,2,Rudy Yakym,R,Y,,N,Jamee Decio,Rudy Yakym,William Eric Henry,I,N,N,N,Solid R,,,https://deepsyte.app/races/IN/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-15,House,IL,15,Mary E. Miller,R,Y,,N,Jennifer Todd,Mary E. Miller,,,N,N,N,Solid R,,,https://deepsyte.app/races/IL/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-16,House,IL,16,Darin LaHood,R,Y,,N,Paul Nolley,Darin LaHood,,,N,N,N,Solid R,,,https://deepsyte.app/races/IL/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-13,House,IL,13,Nikki Budzinski,D,Y,,N,Nikki Budzinski,Jeff Wilson,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IL-14,House,IL,14,Lauren Underwood,D,Y,,N,Lauren Underwood,"James T. ""Jim"" Marter",,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IL-12,House,IL,12,Mike Bost,R,Y,,N,Julie Fortier,Mike Bost,,,N,N,N,Solid R,,,https://deepsyte.app/races/IL/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-10,House,IL,10,Bradley Scott Schneider,D,Y,,N,Bradley Scott Schneider,Carl Lambrecht,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-11,House,IL,11,Bill Foster,D,Y,,N,Bill Foster,Jeff Walter,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-09,House,IL,9,,,N,,Y,Daniel Biss,John Elleson,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-07,House,IL,7,,,N,,Y,La Shawn K. Ford,Chad Koppie,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-08,House,IL,8,,,N,,Y,Melissa L. Bean,Jennifer Davis,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-06,House,IL,6,Sean Casten,D,Y,,N,Sean Casten,Niki Conforti,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-05,House,IL,5,Mike Quigley,D,Y,,N,Mike Quigley,Tommy Hanson,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-03,House,IL,3,Delia C. Ramirez,D,Y,,N,Delia C. Ramirez,Angel Oakley,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-02,House,IL,2,,,N,,Y,Donna Miller,Michael Scott Noack,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-01,House,IL,1,Jonathan L. Jackson,D,Y,,N,Jonathan L. Jackson,Christian Maxwell,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+ID-02,House,ID,2,Michael K. Simpson,R,Y,,N,Ellie Gilbreath,Michael K. Simpson,Emre Houser,I,N,N,N,Solid R,,,https://deepsyte.app/races/ID/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+ID-01,House,ID,1,Russ Fulcher,R,Y,,N,Kaylee Peterson,Russ Fulcher,Brendan J. Gomez,I,N,N,N,Solid R,,,https://deepsyte.app/races/ID/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IA-04,House,IA,4,,,N,,Y,Dave Dawson,Chris McGowan,,,N,N,N,Solid R,,,https://deepsyte.app/races/IA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IA-02,House,IA,2,,,N,,Y,Lindsay James,Joe Mitchell,Rick Stewart,I,N,N,N,Toss Up,,,https://deepsyte.app/races/IA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+HI-02,House,HI,2,Jill N. Tokuda,D,Y,,N,Jill N. Tokuda,Brenton AWA,,,N,N,N,Solid D,,,https://deepsyte.app/races/HI/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+HI-01,House,HI,1,Ed Case,D,Y,,N,Ed Case,Adriel C. LAM,Jordan S. CONLEY,I,N,N,N,Solid D,,,https://deepsyte.app/races/HI/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-14,House,GA,14,Clay Fuller,R,Y,,N,Shawn Harris,Clay Fuller,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-13,House,GA,13,,,N,,Y,Jasmine Clark,Jonathan Chavez,,,N,N,N,Solid D,,,https://deepsyte.app/races/GA/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-12,House,GA,12,Rick W. Allen,R,Y,,N,Ceretta Smith,Rick W. Allen,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-11,House,GA,11,,,N,,Y,Chris Harden,John Cowan,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-10,House,GA,10,,,N,,Y,"Pamela ""Pam"" Delancy",Houston Gaines,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-09,House,GA,9,Andrew S. Clyde,R,Y,,N,Caitlyn Gegen,Andrew S. Clyde,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-07,House,GA,7,Richard McCormick,R,Y,,N,Tony Kozycki,Richard McCormick,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-08,House,GA,8,Austin Scott,R,Y,,N,Kelly Esti,Austin Scott,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-05,House,GA,5,Nikema Williams,D,Y,,N,Nikema Williams,"John ""BONGO"" Salvesen",,,N,N,N,Solid D,,,https://deepsyte.app/races/GA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-06,House,GA,6,Lucy McBath,D,Y,,N,Lucy McBath,Kevin E. Martin,,,N,N,N,Solid D,,,https://deepsyte.app/races/GA/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-04,House,GA,4,"Henry C. ""Hank"" Johnson",D,Y,,N,"Henry C. ""Hank"" Johnson",Jim Duffie,,,N,N,N,Solid D,,,https://deepsyte.app/races/GA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-03,House,GA,3,Brian Jack,R,Y,,N,Maura Keller,Brian Jack,,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-01,House,GA,1,,,N,,Y,Amanda Hollowell,"James ""Jim"" Kingston",,,N,N,N,Solid R,,,https://deepsyte.app/races/GA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-02,House,GA,2,Sanford D. Bishop,D,Y,,N,Sanford D. Bishop,Matt Day,,,N,N,N,Solid D,,,https://deepsyte.app/races/GA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+FL-28,House,FL,28,Carlos A. Gimenez,R,Y,,N,"Phil ""Felipe"" Ehr",Carlos A. Gimenez,Eddy Rojas,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/28; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+FL-26,House,FL,26,Mario Diaz-Balart,R,Y,,N,Nicole Locklin,Mario Diaz-Balart,Deborah Ann Meidinger Hosey,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/26; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+FL-27,House,FL,27,Maria Elvira Salazar,R,Y,,N,Eliott Rodriguez,Maria Elvira Salazar,,,N,N,Y,Lean R,,,https://deepsyte.app/races/FL/27; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-25,House,FL,25,Jared Moskowitz,D,Y,,N,Jared Moskowitz,Scott Singer,Peter Jassenoff,I,N,N,Y,Lean D,,,https://deepsyte.app/races/FL/25; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+FL-24,House,FL,24,,,N,,Y,Oliver G. Gilbert III,Te Mayonna Brown,,,N,N,Y,Solid D,,,https://deepsyte.app/races/FL/24; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+FL-22,House,FL,22,,,N,,Y,Pia Dandiya,Casey Askar,,,N,N,Y,Toss Up,,,https://deepsyte.app/races/FL/22; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+FL-21,House,FL,21,Brian J. Mast,R,Y,,N,James T. Martin,Brian J. Mast,Alexander Cooke,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/21; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-20,House,FL,20,Debbie Wasserman Schultz,D,Y,,N,Debbie Wasserman Schultz,Brent Andersen,Kedner Maxime,I,N,N,Y,Solid D,,,https://deepsyte.app/races/FL/20; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-19,House,FL,19,,,N,,Y,Victor Arias,Jim Schwartzel,Seth Haskin,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/19; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-16,House,FL,16,,,N,,Y,Kelly Kirschner,Sydney Gruters,Mark Davis,I,N,N,Y,Likely R,,,https://deepsyte.app/races/FL/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-18,House,FL,18,Scott Franklin,R,Y,,N,Curtis Gibson,Scott Franklin,Deva Simmons,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/18; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-17,House,FL,17,W. Gregory Steube,R,Y,,N,Matthew Montavon,W. Gregory Steube,Michael J. Quirk,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-14,House,FL,14,Kathy Castor,D,Y,,N,Kathy Castor,Mike Beltran,Brian Lambert,I,N,N,Y,Toss Up,,,https://deepsyte.app/races/FL/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+FL-15,House,FL,15,Laurel M. Lee,R,Y,,N,Robert People,Laurel M. Lee,,,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-12,House,FL,12,Gus M. Bilirakis,R,Y,,N,Kimberly Overman,Gus M. Bilirakis,Branden Scrivener,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-11,House,FL,11,,,N,,Y,James Pericola,Joe Strada,Ralph Groves,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-10,House,FL,10,Maxwell Frost,D,Y,,N,Maxwell Frost,,,,Y,N,Y,Solid D,,,https://deepsyte.app/races/FL/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-09,House,FL,9,Darren Soto,D,Y,,N,Darren Soto,Dan Green,,,N,N,Y,Lean R,,,https://deepsyte.app/races/FL/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-08,House,FL,8,Mike Haridopolos,R,Y,,N,Jennifer Jenkins,Mike Haridopolos,,,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-07,House,FL,7,,,N,,Y,Bale Dalton,Ryan Elijah,Christopher Dennison,I,N,N,Y,Lean R,,,https://deepsyte.app/races/FL/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-05,House,FL,5,John H. Rutherford,R,Y,,N,Rachel Grage,John H. Rutherford,,,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-06,House,FL,6,Randy Fine,R,N,,N,Eric Yonce,Randy Fine,Andrew Parrott,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-04,House,FL,4,Aaron Bean,R,Y,,N,"LaShonda ""L.J."" Holloway",Aaron Bean,Mike Sell,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-03,House,FL,3,Kat Cammack,R,Y,,N,Seth Harp,Kat Cammack,Mike Klein,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-02,House,FL,2,,,N,,Y,Amanda Marie Green,Austin Rogers,,,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+DE-0,House,DE,0,Sarah McBride,D,Y,,N,Sarah McBride,"Joseph ""Dr. Joe"" Arminio",,,N,N,N,,,,https://deepsyte.app/races/DE/00
+FL-01,House,FL,1,Jimmy Patronis,R,N,,N,Gay Valimont,Jimmy Patronis,Tyler L. Davis,I,N,N,Y,Solid R,,,https://deepsyte.app/races/FL/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CT-04,House,CT,4,James A. Himes,D,Y,,N,James A. Himes,Michael Ted Goldstein,Benjamin Wesley,I,N,N,N,Solid D,,,https://deepsyte.app/races/CT/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-02,House,CT,2,Joe Courtney,D,Y,,N,Joe Courtney,George Patrick Austin,,,N,N,N,Solid D,,,https://deepsyte.app/races/CT/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-03,House,CT,3,Rosa L. DeLauro,D,Y,,N,Rosa L. DeLauro,Christopher Lancia,,,N,N,N,Solid D,,,https://deepsyte.app/races/CT/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-01,House,CT,1,,,N,,Y,Luke Bronin,Amy Chai,Mary L. Sanders,I,N,N,N,Solid D,,,https://deepsyte.app/races/CT/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-07,House,CO,7,Brittany Pettersen,D,Y,,N,Brittany Pettersen,Tim Bennett,Joe Krzeczkowski,I,N,N,N,Solid D,,,https://deepsyte.app/races/CO/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-06,House,CO,6,Jason Crow,D,Y,,N,Jason Crow,Jason Clark,Samir Ezzeldin Witta,I,N,N,N,Solid D,,,https://deepsyte.app/races/CO/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-04,House,CO,4,Lauren Boebert,R,Y,,N,Eileen Laubacher,Lauren Boebert,Douglas Mangeris,I,N,N,N,Lean R,,,https://deepsyte.app/races/CO/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+CO-05,House,CO,5,Jeff Crank,R,Y,,N,Jessica Killin,Jeff Crank,Christopher Mitchell,I,N,N,N,Toss Up,,,https://deepsyte.app/races/CO/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CO-02,House,CO,2,Joe Neguse,D,Y,,N,Joe Neguse,Kelley Anne Dennison,Gaylon Kent,I,N,N,N,Solid D,,,https://deepsyte.app/races/CO/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-52,House,CA,52,Juan Vargas,D,Y,,N,Juan Vargas,Jeff Belle,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/52; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-51,House,CA,51,Sara Jacobs,D,Y,,N,Sara Jacobs,Ricardo Cabrera,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/51; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-50,House,CA,50,Scott H. Peters,D,Y,,N,Scott H. Peters,Steve Cohen,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/50; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-48,House,CA,48,,,N,,Y,Marni von Wilpert,Jim Desmond,,,N,N,Y,Lean D,,,https://deepsyte.app/races/CA/48; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CA-46,House,CA,46,J. Luis Correa,D,Y,,N,J. Luis Correa,David Pan,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/46; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-44,House,CA,44,Nanette Diaz Barragán,D,Y,,N,Nanette Diaz Barragán,Genevieve Angel,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/44; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-43,House,CA,43,Maxine Waters,D,Y,,N,Maxine Waters,Cristian Morales,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/43; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-39,House,CA,39,Mark Takano,D,Y,,N,Mark Takano,Steve Manos,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/39; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-42,House,CA,42,Robert Garcia,D,Y,,N,Robert Garcia,Brian Burley,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/42; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-38,House,CA,38,,,N,,Y,Hilda Solis,Pedro Antonio Casas,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/38; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-35,House,CA,35,Norma J. Torres,D,Y,,N,Norma J. Torres,Mike Cargile,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/35; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-36,House,CA,36,Ted Lieu,D,Y,,N,Ted Lieu,Houston Brignano,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/36; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-33,House,CA,33,Pete Aguilar,D,Y,,N,Pete Aguilar,Stephanie M. Vargas,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/33; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-32,House,CA,32,Brad Sherman,D,Y,,N,Brad Sherman,Larry Thompson,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/32; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-31,House,CA,31,Gil Cisneros,D,N,,N,Gil Cisneros,Eric Ching,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/31; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-30,House,CA,30,Laura Friedman,D,Y,,N,Laura Friedman,Scott Alan Meyers,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/30; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-28,House,CA,28,Judy Chu,D,Y,,N,Judy Chu,April A. Verlato,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/28; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-25,House,CA,25,Raul Ruiz,D,Y,,N,Raul Ruiz,Joe Males,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/25; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-26,House,CA,26,,,N,,Y,Jacqui Irwin,Sam Gallucci,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/26; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-24,House,CA,24,Salud O. Carbajal,D,Y,,N,Salud O. Carbajal,Bob Smith,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/24; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-20,House,CA,20,Vince Fong,R,Y,,N,Sandra Van Scotter,Vince Fong,,,N,N,Y,Solid R,,,https://deepsyte.app/races/CA/20; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-23,House,CA,23,Jay Obernolte,R,Y,,N,Tessa Lynn Hodge,Jay Obernolte,,,N,N,Y,Solid R,,,https://deepsyte.app/races/CA/23; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-19,House,CA,19,Jimmy Panetta,D,Y,,N,Jimmy Panetta,Peter Coe Verbica,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/19; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-18,House,CA,18,Zoe Lofgren,D,Y,,N,Zoe Lofgren,Shane Lewis,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/18; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-17,House,CA,17,Ro Khanna,D,Y,,N,Ro Khanna,Ritesh Tandon,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-16,House,CA,16,Sam T. Liccardo,D,Y,,N,Sam T. Liccardo,Peter Sundin Soulé,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/16; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-15,House,CA,15,Kevin Mullin,D,Y,,N,Kevin Mullin,Charles Hoelter,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-10,House,CA,10,Mark DeSaulnier,D,Y,,N,Mark DeSaulnier,Jeff Frese,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-08,House,CA,8,John Garamendi,D,Y,,N,John Garamendi,Rudy Recile,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-05,House,CA,5,Tom McClintock,R,Y,,N,Michael Masuda,Tom McClintock,,,N,N,Y,Solid R,,,https://deepsyte.app/races/CA/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-02,House,CA,2,Jared Huffman,D,Y,,N,Jared Huffman,Robin Littau,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AZ-09,House,AZ,9,Paul A. Gosar,R,Y,,N,"Danielle ""Dani"" Sterbinsky",Paul A. Gosar,,,N,N,N,Solid R,,,https://deepsyte.app/races/AZ/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-08,House,AZ,8,Abraham J. Hamadeh,R,Y,,N,Bernadette Greene-Placentia,Abraham J. Hamadeh,,,N,N,N,Solid R,,,https://deepsyte.app/races/AZ/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-04,House,AZ,4,Greg Stanton,D,Y,,N,Greg Stanton,Zuhdi Jasser,,,N,N,N,Solid D,,,https://deepsyte.app/races/AZ/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AR-04,House,AR,4,Bruce Westerman,R,Y,,N,"James ""Rus"" Russell, III",Bruce Westerman,,,N,N,N,Solid R,,,https://deepsyte.app/races/AR/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+AZ-07,House,AZ,7,Adelita S. Grijalva,D,Y,,N,Adelita S. Grijalva,Daniel Francis Butierez Sr.,,,N,N,N,Solid D,,,https://deepsyte.app/races/AZ/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AZ-05,House,AZ,5,,,N,,Y,Elizabeth Lee,Mark Lamb,,,N,N,N,Solid R,,,https://deepsyte.app/races/AZ/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AR-03,House,AR,3,Steve Womack,R,Y,,N,Robb Ryerse,Steve Womack,Bobby Wilson,I,N,N,N,Solid R,,,https://deepsyte.app/races/AR/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+AR-02,House,AR,2,J. French Hill,R,Y,,N,Chris Jones,J. French Hill,,,N,N,N,Likely R,,,https://deepsyte.app/races/AR/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AL-06,House,AL,6,Gary J. Palmer,R,Y,,N,Maurice Mercer,Gary J. Palmer,,,N,N,Y,Solid R,,,https://deepsyte.app/races/AL/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-07,House,AL,7,Terri A. Sewell,D,Y,,N,Terri A. Sewell,Ammie Akin,,,N,N,Y,Solid D,,,https://deepsyte.app/races/AL/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AL-05,House,AL,5,Dale W. Strong,R,Y,,N,Andrew Sneed,Dale W. Strong,,,N,N,Y,Solid R,,,https://deepsyte.app/races/AL/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-04,House,AL,4,Robert B. Aderholt,R,Y,,N,Amanda N. Pusczek,Robert B. Aderholt,,,N,N,Y,Solid R,,,https://deepsyte.app/races/AL/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-03,House,AL,3,Mike D. Rogers,R,Y,,N,Lee McInnis,Mike D. Rogers,,,N,N,Y,Solid R,,,https://deepsyte.app/races/AL/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-02,House,AL,2,Shomari Figures,D,Y,,N,Shomari Figures,Rhett Marques,,,N,N,Y,Lean R,,,https://deepsyte.app/races/AL/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AR-01,House,AR,1,"Eric A. ""Rick"" Crawford",R,Y,,N,Terri Yarbrough Green,"Eric A. ""Rick"" Crawford",Steve G. Parsons,I,N,N,N,Solid R,,,https://deepsyte.app/races/AR/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+CA-01,House,CA,1,James Gallagher,R,N,,N,Mike McGuire,James Gallagher,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AL-01,House,AL,1,,,N,,Y,Clyde Jones,Jerry Carl,,,N,N,Y,Solid R,,,https://deepsyte.app/races/AL/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-03,House,AZ,3,Yassamin Ansari,D,Y,,N,Yassamin Ansari,,Alan Aversa,I,Y,N,N,Solid D,,,https://deepsyte.app/races/AZ/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CO-01,House,CO,1,,,N,,Y,Melat Kiros,Christy Peterson,Chad Humphrey,I,N,N,N,Solid D,,,https://deepsyte.app/races/CO/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+AK-S,Senate,AK,S,Dan Sullivan,R,Y,,N,Mary Peltola,Gerald L. Heikes; Dan Sullivan; Daniel J. Jr. Sullivan,,,N,N,,Toss Up,,,https://deepsyte.app/races/AK/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+AL-S,Senate,AL,S,,,N,,Y,Everett Wess,Barry Moore,,,N,N,,Solid R,,,https://deepsyte.app/races/AL/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+AR-S,Senate,AR,S,Tom Cotton,R,Y,,N,Hallie Shoffner,Tom Cotton,Jeff Wadlin,I,N,N,,Solid R,,,https://deepsyte.app/races/AR/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+CO-S,Senate,CO,S,John W. Hickenlooper,D,Y,,N,John W. Hickenlooper,Mark Baisley,Blake Huber,I,N,N,,Solid D,,,https://deepsyte.app/races/CO/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+DE-S,Senate,DE,S,Christopher A. Coons,D,Y,,N,Christopher A. Coons,"Michael ""Dr. Mike"" Katz",,,N,N,,Solid D,,,https://deepsyte.app/races/DE/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+GA-S,Senate,GA,S,Jon Ossoff,D,Y,,N,Jon Ossoff,Mike Collins,,,N,N,,Likely D,,,https://deepsyte.app/races/GA/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+IA-S,Senate,IA,S,,,N,,Y,Josh Turek,Ashley Hinson,Thomas Laehn,I,N,N,,Toss Up,,,https://deepsyte.app/races/IA/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+ID-S,Senate,ID,S,James E. Risch,R,Y,,N,,James E. Risch,Todd Achilles,I,Y,N,,Solid R,,,https://deepsyte.app/races/ID/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+IL-S,Senate,IL,S,,,N,,Y,Juliana Stratton,Don Tracy,Whitfield Harrington Jr,I,N,N,,Solid D,,,https://deepsyte.app/races/IL/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+KS-S,Senate,KS,S,Roger Marshall,R,Y,,N,Adam Hamilton,Roger Marshall,David C. Graham,I,N,N,,Toss Up,,,https://deepsyte.app/races/KS/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+LA-S,Senate,LA,S,,,N,,Y,Jamie Davis,Julia Letlow,,,N,N,,Solid R,,,https://deepsyte.app/races/LA/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+MA-S,Senate,MA,S,Edward J. Markey,D,Y,,N,Edward J. Markey,John Deaton,Shiva Ayyadurai,I,N,N,,Solid D,,,https://deepsyte.app/races/MA/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+ME-S,Senate,ME,S,Susan M. Collins,R,Y,,N,Troy D. Jackson,Susan M. Collins,,,N,N,,Toss Up,,,https://deepsyte.app/races/ME/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MI-S,Senate,MI,S,,,N,,Y,Abdul El-Sayed,Mike Rogers,Douglas P. Marsh,I,N,N,,Toss Up,,,https://deepsyte.app/races/MI/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MN-S,Senate,MN,S,,,N,,Y,Peggy Flanagan,Michele Tafoya,Rebecca Whiting,I,N,N,,Lean D,,,https://deepsyte.app/races/MN/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MS-S,Senate,MS,S,Cindy Hyde-Smith,R,Y,,N,Scott Colom,Cindy Hyde-Smith,Ty Pinkins,I,N,N,,Likely R,,,https://deepsyte.app/races/MS/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+MT-S,Senate,MT,S,,,N,,Y,Alani Bankhead,Kurt Alme,Seth Bodnar,I,N,N,,Solid R,,,https://deepsyte.app/races/MT/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+NC-S,Senate,NC,S,,,N,,Y,Roy Cooper,Michael Whatley,Shannon W. Bray,I,N,N,,Likely D,,,https://deepsyte.app/races/NC/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NE-S,Senate,NE,S,Pete Ricketts,R,Y,,N,,Pete Ricketts,Dan Osborn,I,Y,N,,Lean R,,,https://deepsyte.app/races/NE/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1; https://sos.nebraska.gov/secretary-state-certifies-dan-osborns-us-senate-candidate-petition; https://www.fec.gov/data/candidate/S4NE00207/?cycle=2026&election_full=true
+NH-S,Senate,NH,S,,,N,,Y,Chris Pappas,John E. Sununu,,,N,N,,Lean D,,,https://deepsyte.app/races/NH/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NJ-S,Senate,NJ,S,Cory A. Booker,D,Y,,N,Cory A. Booker,Justin Murphy,Veronica Fernandez,I,N,N,,Solid D,,,https://deepsyte.app/races/NJ/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NM-S,Senate,NM,S,Ben Ray Luján,D,Y,,N,Ben Ray Luján,Larry E Marker,,,N,N,,Solid D,,,https://deepsyte.app/races/NM/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+OK-S,Senate,OK,S,,,N,,Y,N'Kiyla Jasmine Thomas,Kevin Hern,Curtis Stinnett,I,N,N,,Solid R,,,https://deepsyte.app/races/OK/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+OR-S,Senate,OR,S,Jeff Merkley,D,Y,,N,Jeff Merkley,David Brock Smith,Gary Lyndon Dye,I,N,N,,Solid D,,,https://deepsyte.app/races/OR/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+RI-S,Senate,RI,S,Jack Reed,D,Y,,N,Jack Reed,Raymond T McKay,Michael Anthony Bahry,I,N,N,,Solid D,,,https://deepsyte.app/races/RI/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+SC-S,Senate,SC,S,Darline Graham,R,N,,N,Annie Andrews,Darline Graham,Mark Hackett,I,N,N,,Lean R,,,https://deepsyte.app/races/SC/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+SD-S,Senate,SD,S,Mike Rounds,R,Y,,N,,Mike Rounds,Brian L Bengs,I,Y,N,,Solid R,,,https://deepsyte.app/races/SD/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+TN-S,Senate,TN,S,Bill Hagerty,R,Y,,N,Marquita Bradshaw,Bill Hagerty,Jeremy Dean Hearn,I,N,N,,Solid R,,,https://deepsyte.app/races/TN/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+TX-S,Senate,TX,S,,,N,,Y,James Talarico,Ken Paxton,Ted Brown,I,N,N,,Toss Up,,,https://deepsyte.app/races/TX/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+VA-S,Senate,VA,S,Mark R. Warner,D,Y,,N,Mark R. Warner,Bert Mizusawa,,,N,N,,Solid D,,,https://deepsyte.app/races/VA/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+WV-S,Senate,WV,S,Shelley Moore Capito,R,Y,,N,Rachel Fetty Anderson,Shelley Moore Capito,S. Marshall Wilson,I,N,N,,Solid R,,,https://deepsyte.app/races/WV/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+WY-S,Senate,WY,S,,,N,,Y,James Byrd,Harriet Hageman,,,N,N,,Solid R,,,https://deepsyte.app/races/WY/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+FL-S2,Senate,FL,S2,Ashley Moody,R,Y,,N,Angie Nixon,Ashley Moody,Neil J. Gillespie,I,N,N,,Likely R,,,https://deepsyte.app/races/FL/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+OH-S2,Senate,OH,S2,Jon Husted,R,Y,,N,Sherrod Brown,Jon Husted,Greg Levy,I,N,N,,Toss Up,,,https://deepsyte.app/races/OH/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+AK-0,House,AK,0,Nicholas J. Begich,R,Y,,N,Eric Hafner,Nicholas J. Begich,"James C. ""Jim"" McDermott",I,N,N,N,,,,https://deepsyte.app/races/AK/00
+AZ-01,House,AZ,1,,,N,,Y,Amish Shah,"Thomas ""Jay"" Feely IV",Monica Alponte,I,N,N,N,Lean D,,,https://deepsyte.app/races/AZ/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+AZ-02,House,AZ,2,Elijah Crane,R,Y,,N,Jonathan Nez,Elijah Crane,Curtis Goodwin,I,N,N,N,Lean R,,,https://deepsyte.app/races/AZ/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AZ-06,House,AZ,6,Juan Ciscomani,R,Y,,N,JoAnna Mendoza,Juan Ciscomani,Gary Swing,I,N,N,N,Lean D,,,https://deepsyte.app/races/AZ/06; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CA-03,House,CA,3,Ami Bera,D,Y,,N,Ami Bera,Robb Tucker,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-09,House,CA,9,Josh Harder,D,Y,,N,Josh Harder,John McBride,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-13,House,CA,13,Adam Gray,D,Y,,N,Adam Gray,Kevin Lincoln,,,N,N,Y,Likely D,,,https://deepsyte.app/races/CA/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+CA-21,House,CA,21,Jim Costa,D,Y,,N,Jim Costa,Kyle Kirkland,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/21; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-22,House,CA,22,David G. Valadao,R,Y,,N,Randy Villegas,David G. Valadao,,,N,N,Y,Toss Up,,,https://deepsyte.app/races/CA/22; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CA-27,House,CA,27,George Whitesides,D,Y,,N,George Whitesides,Jason Gibbs,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/27; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-41,House,CA,41,Linda T. Sánchez,D,Y,,N,Linda T. Sánchez,Mitch Clemmons,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/41; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-45,House,CA,45,Derek Tran,D,Y,,N,Derek Tran,Chuong V. Vo,,,N,N,Y,Likely D,,,https://deepsyte.app/races/CA/45; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+CA-47,House,CA,47,Dave Min,D,Y,,N,Dave Min,Jenny Rae Le Roux,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/47; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-49,House,CA,49,Mike Levin,D,Y,,N,Mike Levin,Armen Kurdian,,,N,N,Y,Solid D,,,https://deepsyte.app/races/CA/49; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-03,House,CO,3,Jeff Hurd,R,Y,,N,Dwayne L. Romero,Jeff Hurd,Clifton Brown,I,N,N,N,Likely R,,,https://deepsyte.app/races/CO/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+CO-08,House,CO,8,Gabe Evans,R,Y,,N,Manny Rutinel,Gabe Evans,Dave Wood,I,N,N,N,Lean D,,,https://deepsyte.app/races/CO/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CT-05,House,CT,5,Jahana Hayes,D,Y,,N,Jahana Hayes,Chris Shea,,,N,N,N,Solid D,,,https://deepsyte.app/races/CT/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-13,House,FL,13,Anna Paulina Luna,R,Y,,N,Leela Gray,Anna Paulina Luna,Tony D'Arrigo,I,N,N,Y,Lean R,,,https://deepsyte.app/races/FL/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-23,House,FL,23,Lois Frankel,D,Y,,N,Lois Frankel,Deborah Adeimy,,,N,N,Y,Solid D,,,https://deepsyte.app/races/FL/23; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IA-01,House,IA,1,Mariannette Miller-Meeks,R,Y,,N,Christina Bohannan,Mariannette Miller-Meeks,Michael Bridgford,I,N,N,N,Lean D,,,https://deepsyte.app/races/IA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+IA-03,House,IA,3,Zachary Nunn,R,Y,,N,Sarah Trone Garriott,Zachary Nunn,,,N,N,N,Lean D,,,https://deepsyte.app/races/IA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+IL-17,House,IL,17,Eric Sorensen,D,Y,,N,Eric Sorensen,Dillan S. Vancil,,,N,N,N,Solid D,,,https://deepsyte.app/races/IL/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IN-01,House,IN,1,Frank J. Mrvan,D,Y,,N,Frank J. Mrvan,Barb Regnitz,,,N,N,N,Likely D,,,https://deepsyte.app/races/IN/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+IN-07,House,IN,7,André Carson,D,Y,,N,André Carson,Patrick McAuley,James M Sceniak,I,N,N,N,Solid D,,,https://deepsyte.app/races/IN/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+ME-02,House,ME,2,,,N,,Y,Matthew G. Dunlap,Paul R. LePage,,,N,N,N,Lean R,,,https://deepsyte.app/races/ME/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+MI-03,House,MI,3,Hillary J. Scholten,D,Y,,N,Hillary J. Scholten,Terri DeBoer,Joe Jock,I,N,N,N,Solid D,,,https://deepsyte.app/races/MI/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-04,House,MI,4,Bill Huizenga,R,Y,,N,Sean McCann,Bill Huizenga,Shafina Che Barnett,I,N,N,N,Toss Up,,,https://deepsyte.app/races/MI/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MI-07,House,MI,7,Tom Barrett,R,Y,,N,William Lawrence,Tom Barrett,Shane Dedrick,I,N,N,N,Toss Up,,,https://deepsyte.app/races/MI/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MI-08,House,MI,8,Kristen McDonald Rivet,D,Y,,N,Kristen McDonald Rivet,Thomas J. Smith,Kathy Goodwin,I,N,N,N,Likely D,,,https://deepsyte.app/races/MI/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+MI-10,House,MI,10,,,N,,Y,Christina Bertrand Hines,Michael Bouchard,Kwabena Nkromo,I,N,N,N,Toss Up,,,https://deepsyte.app/races/MI/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MN-02,House,MN,2,,,N,,Y,Matt Little,Eric Pratt,,,N,N,N,Likely D,,,https://deepsyte.app/races/MN/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+MO-05,House,MO,5,Emanuel Cleaver,D,Y,,N,Emanuel Cleaver,Rick Brattin,Randall (Randy) Langkraehr,I,N,N,N,Solid D,,,https://deepsyte.app/races/MO/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MT-01,House,MT,1,,,N,,Y,Sam Forstag,Aaron Flint,Nick Sheedy,I,N,N,N,Toss Up,,,https://deepsyte.app/races/MT/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NC-01,House,NC,1,Donald G. Davis,D,Y,,N,Donald G. Davis,Laurie Buckhout,Tom Bailey,I,N,N,Y,Toss Up,,,https://deepsyte.app/races/NC/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NE-02,House,NE,2,,,N,,Y,Denise Powell,Brinker Harding,Eric Michael Foreman,I,N,N,N,Likely D,,,https://deepsyte.app/races/NE/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NH-01,House,NH,1,,,N,,Y,Stefany Shaheen,Anthony DiLorenzo,,,N,N,N,Likely D,,,https://deepsyte.app/races/NH/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NJ-05,House,NJ,5,Josh Gottheimer,D,Y,,N,Josh Gottheimer,Sean Kirrane,Adam Rueda,I,N,N,N,Solid D,,,https://deepsyte.app/races/NJ/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-07,House,NJ,7,Thomas H. Kean,R,Y,,N,Rebecca Bennett,Thomas H. Kean,,,N,N,N,Lean D,,,https://deepsyte.app/races/NJ/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+NJ-09,House,NJ,9,Nellie Pou,D,Y,,N,Nellie Pou,Rosie Pino,Terrisa Bukovinac,I,N,N,N,Likely D,,,https://deepsyte.app/races/NJ/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NM-02,House,NM,2,Gabe Vasquez,D,Y,,N,Gabe Vasquez,Gregory G Cunningham,,,N,N,N,Lean D,,,https://deepsyte.app/races/NM/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+NV-01,House,NV,1,Dina Titus,D,Y,,N,Dina Titus,Carrie Ann Buck,"Afzal ""Bobby"" Khan",I,N,N,N,Likely D,,,https://deepsyte.app/races/NV/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NV-03,House,NV,3,Susie Lee,D,Y,,N,Susie Lee,Marty O'Donnell,Jon Kamerath,I,N,N,N,Likely D,,,https://deepsyte.app/races/NV/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NV-04,House,NV,4,Steven Horsford,D,Y,,N,Steven Horsford,Cody K. Whipple,Russell Best,I,N,N,N,Likely D,,,https://deepsyte.app/races/NV/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-03,House,NY,3,Thomas R. Suozzi,D,Y,,N,Thomas R. Suozzi,Michael J. LiPetri Jr,,,N,N,N,Likely D,,,https://deepsyte.app/races/NY/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-04,House,NY,4,Laura Gillen,D,N,,N,Laura A. Gillen,Jeanine C. Driscoll,Blay Tarnoff,I,N,N,N,Likely D,,,https://deepsyte.app/races/NY/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-17,House,NY,17,Michael Lawler,R,Y,,N,Cait Conley,Michael Lawler,,,N,N,N,Toss Up,,,https://deepsyte.app/races/NY/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NY-18,House,NY,18,Patrick Ryan,D,Y,,N,Patrick Ryan,Jackie Mary Auringer,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/18; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-19,House,NY,19,Josh Riley,D,Y,,N,Josh Riley,Peter K. Oberacker,,,N,N,N,Likely D,,,https://deepsyte.app/races/NY/19; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-22,House,NY,22,John W. Mannion,D,Y,,N,John W. Mannion,Kailee Buller,,,N,N,N,Solid D,,,https://deepsyte.app/races/NY/22; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+OH-01,House,OH,1,Greg Landsman,D,Y,,N,Greg Landsman,Eric Conroy,Nathan Weise,I,N,N,Y,Likely D,,,https://deepsyte.app/races/OH/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OH-09,House,OH,9,Marcy Kaptur,D,Y,,N,Marcy Kaptur,Derek Merrin,,,N,N,Y,Lean D,,,https://deepsyte.app/races/OH/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OH-13,House,OH,13,Emilia Strong Sykes,D,Y,,N,Emilia Strong Sykes,Carey Coleman,Sandeep Dixit,I,N,N,Y,Likely D,,,https://deepsyte.app/races/OH/13; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OR-05,House,OR,5,Janelle S. Bynum,D,Y,,N,Janelle S. Bynum,Patti Adair,Andrea Townsend,I,N,N,N,Solid D,,,https://deepsyte.app/races/OR/05; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-01,House,PA,1,Brian K. Fitzpatrick,R,Y,,N,Robert J. Harvie Jr.,Brian K. Fitzpatrick,,,N,N,N,Toss Up,,,https://deepsyte.app/races/PA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+PA-07,House,PA,7,Ryan Mackenzie,R,Y,,N,Robert R. Brooks,Ryan Mackenzie,,,N,N,N,Lean D,,,https://deepsyte.app/races/PA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-08,House,PA,8,Robert P. Bresnahan,R,Y,,N,Paige Cognetti,Robert P. Bresnahan,,,N,N,N,Lean D,,,https://deepsyte.app/races/PA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-10,House,PA,10,Scott Perry,R,Y,,N,Janelle Stelson,Scott Perry,,,N,N,N,Lean D,,,https://deepsyte.app/races/PA/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-17,House,PA,17,Christopher R. Deluzio,D,Y,,N,Christopher R. Deluzio,Anthony G. Guy,,,N,N,N,Solid D,,,https://deepsyte.app/races/PA/17; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+TX-09,House,TX,9,,,N,,Y,Leticia Gutierrez,Alex Mealer,,,N,N,Y,Likely R,,,https://deepsyte.app/races/TX/09; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+TX-15,House,TX,15,Monica De La Cruz,R,Y,,N,Bobby Pulido,Monica De La Cruz,,,N,N,Y,Toss Up,,,https://deepsyte.app/races/TX/15; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+TX-28,House,TX,28,Henry Cuellar,D,Y,,N,Henry Cuellar,Tano E. Tijerina,Marlón Durán,I,N,N,Y,Likely D,,,https://deepsyte.app/races/TX/28; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+TX-32,House,TX,32,,,N,,Y,Dan Barrios,Jace Yarbrough,,,N,N,Y,Solid R,,,https://deepsyte.app/races/TX/32; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-34,House,TX,34,Vicente Gonzalez,D,Y,,N,Vicente Gonzalez,Eric Flores,Eddie Espinoza,I,N,N,Y,Lean D,,,https://deepsyte.app/races/TX/34; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+TX-35,House,TX,35,,,N,,Y,Johnny C. Garcia,Carlos De La Cruz,,,N,N,Y,Toss Up,,,https://deepsyte.app/races/TX/35; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+UT-01,House,UT,1,,,N,,Y,Ben Mcadams,Riley Owen,Elias Henry Montgomery,I,N,N,Y,Solid D,,,https://deepsyte.app/races/UT/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+UT-02,House,UT,2,Blake D. Moore,R,Y,,N,Peter Crosby,Blake D. Moore,Daniel Cottam,I,N,N,Y,Solid R,,,https://deepsyte.app/races/UT/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+UT-03,House,UT,3,Celeste Maloy,R,Y,,N,Kent S. Udell,Celeste Maloy,Cassie Easley,I,N,N,Y,Solid R,,,https://deepsyte.app/races/UT/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-01,House,VA,1,Robert J. Wittman,R,Y,,N,Shannon L. Taylor,Robert J. Wittman,,,N,N,N,Toss Up,,,https://deepsyte.app/races/VA/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+VA-02,House,VA,2,Jennifer A. Kiggans,R,Y,,N,Elaine G. Luria,Jennifer A. Kiggans,J. Matt Baker,I,N,N,N,Lean D,,,https://deepsyte.app/races/VA/02; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+VA-07,House,VA,7,Eugene Simon Vindman,D,Y,,N,Eugene Simon Vindman,Doug A. Ollivant,Randall A. Terry,I,N,N,N,Likely D,,,https://deepsyte.app/races/VA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+VA-10,House,VA,10,Suhas Subramanyam,D,Y,,N,Suhas Subramanyam,Dave T. Beckwith,Ahsen Mujeeb Malik,I,N,N,N,Solid D,,,https://deepsyte.app/races/VA/10; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-03,House,WA,3,Marie Gluesenkamp Perez,D,Y,,N,Marie Gluesenkamp Perez,John Braun,,,N,N,N,Lean D,,,https://deepsyte.app/races/WA/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+WA-08,House,WA,8,Kim Schrier,D,Y,,N,Kim Schrier,Spencer Meline,,,N,N,N,Solid D,,,https://deepsyte.app/races/WA/08; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WI-01,House,WI,1,Bryan Steil,R,Y,,N,Mitchell Berman,Bryan Steil,,,N,N,N,Lean R,,,https://deepsyte.app/races/WI/01; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+WI-03,House,WI,3,Derrick Van Orden,R,Y,,N,Rebecca Cooke,Derrick Van Orden,Alexander Valiensi Kent,I,N,N,N,Lean D,,,https://deepsyte.app/races/WI/03; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CA-12,House,CA,12,Lateefah Simon,D,Y,,N,Jamie Joyce; Lateefah Simon,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/12; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-14,House,CA,14,Aisha Wahab,D,N,,N,Aisha Wahab; Melissa Hernandez,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/14; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-29,House,CA,29,Luz M. Rivas,D,Y,,N,Angélica María Dueñas; Luz M. Rivas,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/29; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-34,House,CA,34,Jimmy Gomez,D,Y,,N,Angela Gonzales-Torres; Jimmy Gomez,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/34; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-37,House,CA,37,Sydney Kamlager-Dove,D,Y,,N,Sydney Kamlager-Dove; Samantha Mota,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/37; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-40,House,CA,40,Ken Calvert,R,Y,,N,,Ken Calvert; Young Kim,,,N,Y,Y,Solid R,,,https://deepsyte.app/races/CA/40; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-07,House,CA,7,Doris O. Matsui,D,Y,,N,Mai Vang; Doris O. Matsui,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/07; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-04,House,CA,4,Mike Thompson,D,Y,,N,Mike Thompson; Eric Jones,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/04; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-11,House,CA,11,,,N,,Y,Connie Chan; Scott Wiener,,,,N,Y,Y,Solid D,,,https://deepsyte.app/races/CA/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+NC-11,House,NC,11,,,N,,Y,Jamie Ager,Jennifer Capps Balkcom,Travis Groo,I,N,N,Y,Lean D,,,https://deepsyte.app/races/NC/11; https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+KY-S,Senate,KY,S,,,N,,Y,Charles Booker,Andy Barr,Christopher Campbell,I,N,N,,Solid R,,,https://deepsyte.app/races/KY/senate; https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1

@@ -1,0 +1,87 @@
+area,area_type,cpi_yoy_pct,core_yoy_pct,month,state,gas_now,gas_year_ago,gas_prewar,prewar_date,rpp_all_items,year,source
+Northeast,region,4.2,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Midwest,region,4.2,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+South,region,3.4,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+West,region,3.4,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+New England,division,4.3,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Middle Atlantic,division,4.2,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+East North Central,division,4.3,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+West North Central,division,4.1,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+South Atlantic,division,3.5,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+East South Central,division,4.2,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+West South Central,division,3.0,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Mountain,division,3.3,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Pacific,division,3.5,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Chicago-Naperville-Elgin, IL-IN-WI",metro,2.9,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Los Angeles-Long Beach-Anaheim, CA",metro,3.7,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"New York-Newark-Jersey City, NY-NJ-PA",metro,4.5,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Atlanta-Sandy Springs-Roswell, GA",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Baltimore-Columbia-Towson, MD",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Detroit-Warren-Dearborn, MI",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Houston-The Woodlands-Sugar Land, TX",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Miami-Fort Lauderdale-West Palm Beach, FL",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Phoenix-Mesa-Scottsdale, AZ",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"San Francisco-Oakland-Hayward, CA",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Seattle-Tacoma-Bellevue, WA",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"St. Louis, MO-IL",metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Urban Alaska,metro,,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Boston-Cambridge-Newton, MA-NH",metro,3.8,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Dallas-Fort Worth-Arlington, TX",metro,3.0,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Denver-Aurora-Lakewood, CO",metro,4.0,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Minneapolis-St. Paul-Bloomington, MN-WI",metro,3.6,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Riverside-San Bernardino-Ontario, CA",metro,3.6,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"San Diego-Carlsbad, CA",metro,4.7,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Tampa-St. Petersburg-Clearwater, FL",metro,1.9,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+Urban Hawaii,metro,5.2,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",metro,4.1,,2026-09,,,,,,,,https://www.bls.gov/news.release/archives/cpi_10142026.htm
+AK,state,,,,AK,4.7725,,3.50,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+AL,state,,,,AL,3.7370,,2.63,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+AR,state,,,,AR,3.7733,,2.46,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+AZ,state,,,,AZ,4.4268,,3.16,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+CA,state,,,,CA,5.9055,,4.59,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+CO,state,,,,CO,4.2165,,2.76,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+CT,state,,,,CT,4.2504,,2.90,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+DE,state,,,,DE,3.9493,,2.87,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+FL,state,,,,FL,3.8690,,2.91,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+GA,state,,,,GA,3.5837,,2.71,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+HI,state,,,,HI,5.6622,,4.40,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+IA,state,,,,IA,4.0269,,2.45,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+ID,state,,,,ID,4.5429,,2.97,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+IL,state,,,,IL,4.7185,,2.99,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+IN,state,,,,IN,3.8230,,2.75,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+KS,state,,,,KS,3.8961,,2.47,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+KY,state,,,,KY,3.8996,,2.59,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+LA,state,,,,LA,3.7131,,2.51,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MA,state,,,,MA,4.1779,,2.90,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MD,state,,,,MD,3.9909,,2.92,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+ME,state,,,,ME,4.2527,,2.92,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MI,state,,,,MI,4.5475,,2.92,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MN,state,,,,MN,4.0887,,2.57,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MO,state,,,,MO,3.8468,,2.52,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MS,state,,,,MS,3.7807,,2.49,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+MT,state,,,,MT,4.3134,,2.75,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NC,state,,,,NC,3.3903,,2.77,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+ND,state,,,,ND,4.0383,,2.54,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NE,state,,,,NE,4.1772,,2.59,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NH,state,,,,NH,4.1693,,2.85,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NJ,state,,,,NJ,4.1300,,2.94,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NM,state,,,,NM,4.1202,,2.61,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NV,state,,,,NV,5.2388,,3.64,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+NY,state,,,,NY,4.3441,,3.00,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+OH,state,,,,OH,4.1488,,2.70,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+OK,state,,,,OK,3.8202,,2.29,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+OR,state,,,,OR,4.7951,,3.71,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+PA,state,,,,PA,4.4325,,3.11,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+RI,state,,,,RI,4.1142,,2.87,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+SC,state,,,,SC,3.6683,,2.67,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+SD,state,,,,SD,4.1159,,2.59,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+TN,state,,,,TN,3.7208,,2.58,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+TX,state,,,,TX,3.6484,,2.55,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+UT,state,,,,UT,4.5536,,2.79,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+VA,state,,,,VA,3.9647,,2.81,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+VT,state,,,,VT,4.3197,,3.00,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+WA,state,,,,WA,5.2030,,4.17,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+WI,state,,,,WI,4.2589,,2.55,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+WV,state,,,,WV,4.1665,,2.85,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html
+WY,state,,,,WY,4.3491,,2.70,2026-02-18,,,https://gasprices.aaa.com/todays-state-averages/; https://finance.yahoo.com/news/most-expensive-gas-prices-u-024805576.html

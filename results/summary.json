@@ -1,0 +1,140 @@
+{
+ "D_plus": {
+  "house_dem_seats_mean": 254.6399,
+  "house_dem_seats_80": [
+   234,
+   277
+  ],
+  "p_dem_house": 0.99445,
+  "senate_dem_seats_mean": 53.29085,
+  "senate_dem_seats_80": [
+   50,
+   57
+  ],
+  "p_dem_senate": 0.8557,
+  "score_sim": {
+   "model_favorite": {
+    "mean": 51.43,
+    "p10": 47.29,
+    "median": 51.59,
+    "p90": 55.34
+   },
+   "safe": {
+    "mean": 58.91,
+    "p10": 49.58,
+    "median": 59.19,
+    "p90": 67.85
+   },
+   "floor_25 (DEFAULT)": {
+    "mean": 58.99,
+    "p10": 47.12,
+    "median": 58.98,
+    "p90": 70.92
+   },
+   "margin_ev (80% rule)": {
+    "mean": 69.87,
+    "p10": 50.97,
+    "median": 66.19,
+    "p90": 94.7
+   },
+   "max_ev": {
+    "mean": 71.2,
+    "p10": 48.35,
+    "median": 65.36,
+    "p90": 102.41
+   }
+  }
+ },
+ "neutral": {
+  "house_dem_seats_mean": 241.9099,
+  "house_dem_seats_80": [
+   223,
+   262
+  ],
+  "p_dem_house": 0.9561,
+  "senate_dem_seats_mean": 51.54915,
+  "senate_dem_seats_80": [
+   48,
+   55
+  ],
+  "p_dem_senate": 0.65115,
+  "score_sim": {
+   "model_favorite": {
+    "mean": 50.65,
+    "p10": 46.34,
+    "median": 51.07,
+    "p90": 54.39
+   },
+   "safe": {
+    "mean": 57.3,
+    "p10": 47.29,
+    "median": 57.55,
+    "p90": 67.01
+   },
+   "floor_25 (DEFAULT)": {
+    "mean": 57.61,
+    "p10": 49.26,
+    "median": 57.36,
+    "p90": 66.44
+   },
+   "margin_ev (80% rule)": {
+    "mean": 63.81,
+    "p10": 53.65,
+    "median": 62.94,
+    "p90": 75.27
+   },
+   "max_ev": {
+    "mean": 64.05,
+    "p10": 51.94,
+    "median": 62.88,
+    "p90": 77.79
+   }
+  }
+ },
+ "R_plus": {
+  "house_dem_seats_mean": 230.15735,
+  "house_dem_seats_80": [
+   212,
+   248
+  ],
+  "p_dem_house": 0.8179,
+  "senate_dem_seats_mean": 49.88345,
+  "senate_dem_seats_80": [
+   47,
+   53
+  ],
+  "p_dem_senate": 0.3872,
+  "score_sim": {
+   "model_favorite": {
+    "mean": 60.13,
+    "p10": 50.33,
+    "median": 61.59,
+    "p90": 67.62
+   },
+   "safe": {
+    "mean": 71.49,
+    "p10": 51.13,
+    "median": 71.38,
+    "p90": 92.04
+   },
+   "floor_25 (DEFAULT)": {
+    "mean": 68.96,
+    "p10": 49.38,
+    "median": 69.2,
+    "p90": 88.15
+   },
+   "margin_ev (80% rule)": {
+    "mean": 75.63,
+    "p10": 51.05,
+    "median": 74.19,
+    "p90": 102.68
+   },
+   "max_ev": {
+    "mean": 75.52,
+    "p10": 49.42,
+    "median": 72.85,
+    "p90": 105.57
+   }
+  }
+ }
+}

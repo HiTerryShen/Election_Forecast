@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+~$*.xlsx
+synthetic/
+results_test/
+# Census API responses (add once a key is obtained; keep the key itself out of git)
+.env

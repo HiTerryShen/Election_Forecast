@@ -1,0 +1,471 @@
+race_id,state,district,pvi_raw,pvi_num,pvi_version,source
+MN-05,MN,5,D+32,32,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+IL-04,IL,4,D+17,17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+NE-01,NE,1,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+CA-06,CA,6,D+5,5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+WY-0,WY,0,R+23,-23,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+WV-02,WV,2,R+20,-20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WV-01,WV,1,R+22,-22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-07,WI,7,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-08,WI,8,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-06,WI,6,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-05,WI,5,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WI-04,WI,4,D+26,26,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WI-02,WI,2,D+21,21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-10,WA,10,D+9,9,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-09,WA,9,D+22,22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-07,WA,7,D+39,39,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WA-06,WA,6,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-05,WA,5,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+WA-04,WA,4,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+WA-02,WA,2,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-01,WA,1,D+15,15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VT-0,VT,0,D+17,17,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+VA-11,VA,11,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-09,VA,9,R+22,-22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-08,VA,8,D+26,26,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-06,VA,6,R+12,-12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-05,VA,5,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+VA-04,VA,4,D+17,17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+VA-03,VA,3,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+UT-04,UT,4,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-38,TX,38,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-37,TX,37,D+30,30,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-36,TX,36,R+12,-12,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+TX-33,TX,33,D+18,18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-31,TX,31,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-30,TX,30,D+25,25,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-29,TX,29,D+17,17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-27,TX,27,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-26,TX,26,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-24,TX,24,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-25,TX,25,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-23,TX,23,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+TX-22,TX,22,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-21,TX,21,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-20,TX,20,D+16,16,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-19,TX,19,R+25,-25,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-18,TX,18,D+29,29,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-17,TX,17,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-16,TX,16,D+11,11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-14,TX,14,R+12,-12,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-13,TX,13,R+23,-23,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-12,TX,12,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-11,TX,11,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-10,TX,10,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-08,TX,8,R+13,-13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-07,TX,7,D+13,13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+TX-06,TX,6,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-05,TX,5,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-04,TX,4,R+12,-12,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-03,TX,3,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-02,TX,2,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TX-01,TX,1,R+24,-24,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-09,TN,9,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-08,TN,8,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-07,TN,7,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-06,TN,6,R+13,-13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-05,TN,5,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-04,TN,4,R+11,-11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-03,TN,3,R+18,-18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-02,TN,2,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+TN-01,TN,1,R+29,-29,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SD-0,SD,0,R+15,-15,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+SC-07,SC,7,R+12,-12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-06,SC,6,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+SC-05,SC,5,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-04,SC,4,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-03,SC,3,R+21,-21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-02,SC,2,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+SC-01,SC,1,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+RI-01,RI,1,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-14,PA,14,R+17,-17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+PA-15,PA,15,R+19,-19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+RI-02,RI,2,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+PA-16,PA,16,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=19
+PA-12,PA,12,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-13,PA,13,R+23,-23,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-11,PA,11,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-09,PA,9,R+19,-19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+PA-06,PA,6,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-05,PA,5,D+15,15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-04,PA,4,D+8,8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-03,PA,3,D+40,40,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-02,PA,2,D+19,19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-06,OR,6,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-04,OR,4,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-03,OR,3,D+24,24,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OR-02,OR,2,R+14,-14,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OR-01,OR,1,D+20,20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OK-05,OK,5,R+9,-9,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-04,OK,4,R+17,-17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-03,OK,3,R+23,-23,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-02,OK,2,R+28,-28,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OK-01,OK,1,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-15,OH,15,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+OH-14,OH,14,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-12,OH,12,R+15,-15,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-11,OH,11,D+28,28,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OH-10,OH,10,R+4,-4,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+OH-08,OH,8,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-07,OH,7,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+OH-06,OH,6,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-05,OH,5,R+12,-12,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-04,OH,4,R+21,-21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+OH-03,OH,3,D+21,21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+OH-02,OH,2,R+21,-21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NY-26,NY,26,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NY-25,NY,25,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NY-24,NY,24,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-23,NY,23,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-21,NY,21,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+NY-20,NY,20,D+8,8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-16,NY,16,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-15,NY,15,D+27,27,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-14,NY,14,D+19,19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-13,NY,13,D+32,32,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-12,NY,12,D+33,33,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-11,NY,11,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-10,NY,10,D+32,32,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-09,NY,9,D+22,22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-07,NY,7,D+25,25,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-08,NY,8,D+24,24,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-06,NY,6,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-05,NY,5,D+24,24,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-02,NY,2,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NY-01,NY,1,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NV-02,NV,2,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+NM-03,NM,3,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NM-01,NM,1,D+7,7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-12,NJ,12,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-10,NJ,10,D+27,27,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-11,NJ,11,D+5,5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-08,NJ,8,D+15,15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NJ-06,NJ,6,D+5,5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-04,NJ,4,R+14,-14,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NJ-03,NJ,3,D+5,5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-02,NJ,2,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NJ-01,NJ,1,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NH-02,NH,2,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NE-03,NE,3,R+27,-27,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+ND-0,ND,0,R+18,-18,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+NC-14,NC,14,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-13,NC,13,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-12,NC,12,D+24,24,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NC-10,NC,10,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-09,NC,9,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-08,NC,8,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=18
+NC-07,NC,7,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NC-06,NC,6,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+NC-05,NC,5,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-04,NC,4,D+23,23,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+NC-03,NC,3,R+6,-6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+NC-02,NC,2,D+17,17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+MS-04,MS,4,R+21,-21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MT-02,MT,2,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MS-03,MS,3,R+14,-14,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MS-02,MS,2,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MS-01,MS,1,R+18,-18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-08,MO,8,R+27,-27,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-06,MO,6,R+19,-19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-07,MO,7,R+21,-21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-04,MO,4,R+21,-21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-03,MO,3,R+13,-13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MO-02,MO,2,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+MO-01,MO,1,D+29,29,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-08,MN,8,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MN-07,MN,7,R+18,-18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=17
+MN-06,MN,6,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MN-04,MN,4,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-03,MN,3,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MN-01,MN,1,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+MI-13,MI,13,D+22,22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-12,MI,12,D+21,21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-11,MI,11,D+9,9,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-09,MI,9,R+16,-16,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-06,MI,6,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-02,MI,2,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-05,MI,5,R+13,-13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MI-01,MI,1,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+ME-01,ME,1,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-07,MD,7,D+31,31,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-08,MD,8,D+30,30,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-06,MD,6,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-05,MD,5,D+17,17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-04,MD,4,D+39,39,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-03,MD,3,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-02,MD,2,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MD-01,MD,1,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+MA-08,MA,8,D+15,15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-09,MA,9,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-07,MA,7,D+34,34,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-06,MA,6,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MA-05,MA,5,D+24,24,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-04,MA,4,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-03,MA,3,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-02,MA,2,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+MA-01,MA,1,D+8,8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+LA-06,LA,6,R+16,-16,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-05,LA,5,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-04,LA,4,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-02,LA,2,D+25,25,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+LA-03,LA,3,R+18,-18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+LA-01,LA,1,R+20,-20,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-06,KY,6,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+KY-05,KY,5,R+32,-32,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-04,KY,4,R+18,-18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-03,KY,3,D+10,10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+KY-02,KY,2,R+20,-20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KY-01,KY,1,R+23,-23,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KS-03,KS,3,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+KS-04,KS,4,R+12,-12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+KS-02,KS,2,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+KS-01,KS,1,R+16,-16,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-09,IN,9,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-08,IN,8,R+18,-18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IN-06,IN,6,R+16,-16,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-03,IN,3,R+16,-16,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-05,IN,5,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+IN-04,IN,4,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IN-02,IN,2,R+13,-13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-15,IL,15,R+20,-20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-16,IL,16,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-13,IL,13,D+5,5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IL-14,IL,14,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IL-12,IL,12,R+22,-22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IL-10,IL,10,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-11,IL,11,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-09,IL,9,D+19,19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-07,IL,7,D+34,34,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-08,IL,8,D+5,5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-06,IL,6,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-05,IL,5,D+19,19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-03,IL,3,D+17,17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-02,IL,2,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IL-01,IL,1,D+18,18,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+ID-02,ID,2,R+13,-13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+ID-01,ID,1,R+22,-22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+IA-04,IA,4,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=16
+IA-02,IA,2,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+HI-02,HI,2,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+HI-01,HI,1,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-14,GA,14,R+19,-19,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-13,GA,13,D+21,21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-12,GA,12,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-11,GA,11,R+12,-12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-10,GA,10,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-09,GA,9,R+17,-17,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-07,GA,7,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-08,GA,8,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-05,GA,5,D+36,36,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-06,GA,6,D+25,25,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-04,GA,4,D+27,27,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+GA-03,GA,3,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-01,GA,1,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+GA-02,GA,2,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+FL-28,FL,28,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+FL-26,FL,26,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=15
+FL-27,FL,27,R+6,-6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-25,FL,25,R+3,-3,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+FL-24,FL,24,D+22,22,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+FL-22,FL,22,R+4,-4,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+FL-21,FL,21,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-20,FL,20,D+20,20,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-19,FL,19,R+14,-14,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-16,FL,16,R+6,-6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-18,FL,18,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-17,FL,17,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-14,FL,14,R+4,-4,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+FL-15,FL,15,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-12,FL,12,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-11,FL,11,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-10,FL,10,D+13,13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-09,FL,9,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-08,FL,8,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-07,FL,7,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-05,FL,5,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-06,FL,6,R+14,-14,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-04,FL,4,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-03,FL,3,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+FL-02,FL,2,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+DE-0,DE,0,D+8,8,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+FL-01,FL,1,R+18,-18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CT-04,CT,4,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-02,CT,2,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-03,CT,3,D+8,8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CT-01,CT,1,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-07,CO,7,D+8,8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-06,CO,6,D+11,11,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-04,CO,4,R+9,-9,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+CO-05,CO,5,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CO-02,CO,2,D+20,20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-52,CA,52,D+11,11,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-51,CA,51,D+10,10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-50,CA,50,D+10,10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-48,CA,48,D+2,2,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CA-46,CA,46,D+10,10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-44,CA,44,D+20,20,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-43,CA,43,D+27,27,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-39,CA,39,D+7,7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-42,CA,42,D+8,8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-38,CA,38,D+8,8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-35,CA,35,D+6,6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-36,CA,36,D+21,21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-33,CA,33,D+7,7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-32,CA,32,D+14,14,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-31,CA,31,D+8,8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-30,CA,30,D+21,21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-28,CA,28,D+14,14,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-25,CA,25,D+4,4,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-26,CA,26,D+9,9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-24,CA,24,D+13,13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-20,CA,20,R+16,-16,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-23,CA,23,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-19,CA,19,D+18,18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-18,CA,18,D+16,16,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-17,CA,17,D+21,21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-16,CA,16,D+25,25,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-15,CA,15,D+26,26,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-10,CA,10,D+18,18,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-08,CA,8,D+19,19,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-05,CA,5,R+10,-10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-02,CA,2,D+13,13,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AZ-09,AZ,9,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-08,AZ,8,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-04,AZ,4,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AR-04,AR,4,R+20,-20,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+AZ-07,AZ,7,D+13,13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AZ-05,AZ,5,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AR-03,AR,3,R+13,-13,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+AR-02,AR,2,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AL-06,AL,6,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-07,AL,7,D+10,10,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AL-05,AL,5,R+15,-15,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-04,AL,4,R+33,-33,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-03,AL,3,R+23,-23,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AL-02,AL,2,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AR-01,AR,1,R+23,-23,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+CA-01,CA,1,D+7,7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+AL-01,AL,1,R+17,-17,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+AZ-03,AZ,3,D+22,22,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CO-01,CO,1,D+29,29,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+AK-S,AK,S,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+AL-S,AL,S,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+AR-S,AR,S,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+CO-S,CO,S,D+6,6,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+DE-S,DE,S,D+8,8,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+GA-S,GA,S,R+1,-1,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+IA-S,IA,S,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+ID-S,ID,S,R+18,-18,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+IL-S,IL,S,D+6,6,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+KS-S,KS,S,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+LA-S,LA,S,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+MA-S,MA,S,D+14,14,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+ME-S,ME,S,D+4,4,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MI-S,MI,S,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MN-S,MN,S,D+3,3,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+MS-S,MS,S,R+11,-11,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+MT-S,MT,S,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+NC-S,NC,S,R+1,-1,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NE-S,NE,S,R+10,-10,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+NH-S,NH,S,D+2,2,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NJ-S,NJ,S,D+4,4,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+NM-S,NM,S,D+4,4,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+OK-S,OK,S,R+17,-17,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+OR-S,OR,S,D+8,8,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+RI-S,RI,S,D+8,8,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+SC-S,SC,S,R+8,-8,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+SD-S,SD,S,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+TN-S,TN,S,R+14,-14,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+TX-S,TX,S,R+6,-6,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+VA-S,VA,S,D+3,3,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+WV-S,WV,S,R+21,-21,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+WY-S,WY,S,R+23,-23,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+FL-S2,FL,S,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
+OH-S2,OH,S,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=0
+AK-0,AK,0,R+6,-6,2025,https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
+AZ-01,AZ,1,R+1,-1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+AZ-02,AZ,2,R+7,-7,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+AZ-06,AZ,6,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CA-03,CA,3,D+6,6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-09,CA,9,D+8,8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-13,CA,13,D+2,2,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+CA-21,CA,21,D+5,5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-22,CA,22,D+1,1,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CA-27,CA,27,D+6,6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-41,CA,41,D+9,9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-45,CA,45,D+3,3,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+CA-47,CA,47,D+6,6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CA-49,CA,49,D+7,7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+CO-03,CO,3,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+CO-08,CO,8,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+CT-05,CT,5,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=2
+FL-13,FL,13,R+6,-6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+FL-23,FL,23,D+9,9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=3
+IA-01,IA,1,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+IA-03,IA,3,R+2,-2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+IL-17,IL,17,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+IN-01,IN,1,D+1,1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+IN-07,IN,7,D+21,21,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=4
+ME-02,ME,2,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+MI-03,MI,3,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MI-04,MI,4,R+3,-3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MI-07,MI,7,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MI-08,MI,8,R+1,-1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+MI-10,MI,10,R+3,-3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+MN-02,MN,2,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+MO-05,MO,5,D+12,12,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+MT-01,MT,1,R+5,-5,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NC-01,NC,1,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NE-02,NE,2,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NH-01,NH,1,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NJ-05,NJ,5,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=5
+NJ-07,NJ,7,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+NJ-09,NJ,9,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NM-02,NM,2,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+NV-01,NV,1,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NV-03,NV,3,D+1,1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NV-04,NV,4,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-03,NY,3,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-04,NY,4,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-17,NY,17,D+1,1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+NY-18,NY,18,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+NY-19,NY,19,D+1,1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+NY-22,NY,22,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=6
+OH-01,OH,1,R+1,-1,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OH-09,OH,9,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OH-13,OH,13,D+2,2,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+OR-05,OR,5,D+4,4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+PA-01,PA,1,D+1,1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+PA-07,PA,7,R+1,-1,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-08,PA,8,R+4,-4,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-10,PA,10,R+3,-3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+PA-17,PA,17,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=7
+TX-09,TX,9,R+9,-9,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=13
+TX-15,TX,15,R+7,-7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+TX-28,TX,28,R+3,-3,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+TX-32,TX,32,R+8,-8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=20
+TX-34,TX,34,R+3,-3,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+TX-35,TX,35,R+4,-4,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+UT-01,UT,1,D+12,12,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+UT-02,UT,2,R+15,-15,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+UT-03,UT,3,R+21,-21,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=21
+VA-01,VA,1,R+3,-3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+VA-02,VA,2,EVEN,0,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+VA-07,VA,7,D+2,2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+VA-10,VA,10,D+6,6,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=8
+WA-03,WA,3,R+2,-2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+WA-08,WA,8,D+3,3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=9
+WI-01,WI,1,R+2,-2,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=12
+WI-03,WI,3,R+3,-3,2025,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=11
+CA-12,CA,12,D+39,39,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-14,CA,14,D+19,19,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-29,CA,29,D+19,19,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-34,CA,34,D+28,28,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-37,CA,37,D+33,33,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=1
+CA-40,CA,40,R+6,-6,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=14
+CA-07,CA,7,D+7,7,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-04,CA,4,D+8,8,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+CA-11,CA,11,D+36,36,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=0
+NC-11,NC,11,R+5,-5,2026 redraw,https://www.cookpolitical.com/races?race_type=House&order=Rating&page=10
+KY-S,KY,S,R+15,-15,2025,https://www.cookpolitical.com/races?race_type=Senate&order=Rating&page=1
